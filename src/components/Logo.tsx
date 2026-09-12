@@ -36,7 +36,7 @@ export function Logo({ size = 36, withWordmark = true }: { size?: number; withWo
       <LogoMark size={size} />
       {withWordmark && (
         <span className="text-xl font-bold tracking-tight text-foreground">
-          Kura<span className="text-brand-brown">Spigu</span>
+          Kuras<span className="text-brand-brown">pigu</span>
         </span>
       )}
     </span>

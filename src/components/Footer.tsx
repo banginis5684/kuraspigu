@@ -10,7 +10,7 @@ export function Footer() {
             <div className="mb-3 flex items-center gap-2.5">
               <LogoMark size={28} />
               <span className="text-lg font-bold tracking-tight">
-                Kura<span className="text-brand-brown">Spigu</span>
+                Kuras<span className="text-brand-brown">pigu</span>
               </span>
             </div>
             <p className="text-sm text-subtle">
