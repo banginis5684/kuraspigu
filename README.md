@@ -44,3 +44,11 @@ host once deployed.
 - Have the legal pages (`privatumo-politika`, `naudojimosi-taisykles`)
   reviewed by a lawyer before going live publicly.
 - Wire up a working contact form (e.g. via Resend or a form service).
+
+## App roadmap (v2)
+
+The plan for turning this into a full app — favorites, price-change
+alerts, geolocation "find nearest," route search, live LEA data, a fuel
+calculator, and profiles — is captured in [ROADMAP.md](ROADMAP.md). It's
+not built yet; that file is the spec to build from when this phase
+starts.
