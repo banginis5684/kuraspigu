@@ -48,12 +48,43 @@ near their current location or along a route.
 ### 4. Data source
 
 - Real price data is meant to come from **LEA** (Lietuvos energetikos
-  agentūra).
+  agentūra, ena.lt) — confirmed this is also where competing sites
+  (degalu-kaina.lt and others) source their data from.
 - Data refreshes on a set day (e.g. Monday); show a reminder/notice when
   data was last updated or is due for a refresh.
-- **Open question, needs research before the backend is built:** does LEA
-  expose a public feed/API, or would this require scraping / manual
-  ingestion? This decides a lot of the backend design below.
+- **Research findings (2026-09-12):**
+  - Fuel retailers are legally required to report prices to LEA every
+    working day by 10:00, with voluntary real-time updates after 11:00.
+    No weekend updates — matches the "data updated on Monday" reminder
+    idea.
+  - LEA has no public REST API or open-data-portal dataset (checked
+    data.gov.lt — no fuel price dataset listed there).
+  - LEA does publish a **raw data Excel file**, consolidated by year, at
+    [ena.lt/dk-pr-pr-duomenys](https://www.ena.lt/dk-pr-pr-duomenys/)
+    ("Pranešimai ir pradiniai duomenys"). The current file is hosted as
+    a SharePoint share link, which redirects to an Office web viewer —
+    it's built for a person clicking "download" in a browser, not for
+    unattended scripts. A scraper would need to either drive a headless
+    browser through that flow or find a stable direct-download URL
+    (worth testing SharePoint's `?download=1` pattern), and re-locate
+    the link periodically since it looks like LEA rotates to a new file
+    per period.
+  - LEA also runs two visualization tools with no visible export: the
+    [price map](https://www.ena.lt/dk-zemelapis/) (degalukainos.ena.lt)
+    and the [monitoring tool](https://www.ena.lt/dk-irankis/). Both
+    likely call an internal JSON API under the hood to render — that
+    API isn't documented, but inspecting it via browser dev tools
+    (Network tab) could turn up a cleaner, near-real-time source than
+    the Excel file. Worth a follow-up session with an actual browser.
+  - Competitor sites (e.g. degalu-kaina.lt) reportedly re-publish their
+    own derived CSV/JSON exports built on top of LEA's data — not a
+    primary source, and scraping a competitor's derived product raises
+    its own legal/ethical questions, so treat this as a fallback idea
+    only, not a plan.
+- **Recommendation:** build the ingestion pipeline around the LEA Excel
+  file first (most durable, explicitly "raw data"), and spend a short
+  follow-up investigating whether the price-map tool's backend API is
+  usable — that would remove the SharePoint/Excel fragility entirely.
 
 ### 5. Main page layout
 
@@ -92,7 +123,9 @@ Top to bottom:
 
 ## Suggested build order
 
-1. Research the LEA data source — this gates almost everything else.
+1. ~~Research the LEA data source~~ — done, see Data source above.
+   Follow-up: inspect the price-map tool's network calls for a cleaner
+   API before committing to Excel scraping.
 2. Add the search/filters UI and station list to the current site using
    the existing sample data (no accounts/notifications yet).
 3. Add map + geolocation "find nearest" on top of that.
@@ -102,8 +135,12 @@ Top to bottom:
 
 ## Open questions
 
-- Does LEA provide a usable public feed, and how often is it actually
-  updated in practice?
+- Does the LEA price-map tool (degalukainos.ena.lt) call an internal API
+  that's cleaner to consume than the Excel file? Needs a browser
+  dev-tools session to check.
+- How reliable is the SharePoint Excel link long-term — does LEA keep the
+  same URL, or does it need to be re-discovered each time they rotate to
+  a new period's file?
 - Native app or PWA — or both eventually?
 - What counts as "nearby" when geolocation is denied — city-only fallback?
 - Should route-based search use a routing API (e.g. driving directions) or
