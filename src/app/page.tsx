@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { LogoMark } from "@/components/Logo";
+import { OilPour } from "@/components/OilPour";
 import { CITIES, FUEL_TYPES, STATIONS, cheapestByFuel, formatPrice } from "@/lib/data";
 
 export default function Home() {
@@ -17,8 +17,14 @@ export default function Home() {
 function Hero() {
   return (
     <section className="relative overflow-hidden border-b border-border">
-      <div className="pointer-events-none absolute -right-16 -top-16 opacity-[0.06] sm:-right-8 sm:-top-8">
-        <LogoMark size={340} />
+      <div
+        className="pointer-events-none absolute inset-y-0 right-0 hidden w-[420px] xl:block"
+        style={{
+          maskImage: "linear-gradient(to right, transparent, black 25%)",
+          WebkitMaskImage: "linear-gradient(to right, transparent, black 25%)",
+        }}
+      >
+        <OilPour />
       </div>
       <div className="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28">
         <div className="max-w-2xl">
