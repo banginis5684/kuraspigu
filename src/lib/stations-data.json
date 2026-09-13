@@ -2994,5 +2994,1041 @@
       "lpg": null
     },
     "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sdp1ft3",
+    "brand": "Circle K",
+    "city": "Druskininkų sav.",
+    "address": "Druskininkai, M. K. Čiurlionio g. 113, 66161",
+    "lat": 54.0101815,
+    "lng": 23.993238,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sse11fl",
+    "brand": "Circle K",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Klaipėdos g. 92A, 37383",
+    "lat": 55.7286958,
+    "lng": 24.3389636,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s7jyjl0",
+    "brand": "Circle K",
+    "city": "Utenos r. sav.",
+    "address": "Utena, J. Basanavičiaus g. 108A, 28214",
+    "lat": 55.5050046,
+    "lng": 25.6209141,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "suipmqa",
+    "brand": "Circle K",
+    "city": "Elektrėnų sav.",
+    "address": "Elektrėnai, Sabališkių g. 1F, 26128",
+    "lat": 54.7891686,
+    "lng": 24.6760563,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sn7a08r",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, R. Kalantos g. 68, 52365",
+    "lat": 54.8930507,
+    "lng": 23.9958043,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sm5fjth",
+    "brand": "Circle K",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Taikos pr. 61B, 91182",
+    "lat": 55.692392,
+    "lng": 21.1537884,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s4azubs",
+    "brand": "Circle K",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Dubijos g. 20A, 77207",
+    "lat": 55.9287546,
+    "lng": 23.2975956,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sf2orn4",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Sporto g. 16A, 09200",
+    "lat": 54.6950807,
+    "lng": 25.2981194,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "si89qx9",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Jonavos g. 38, 44263",
+    "lat": 54.9015997,
+    "lng": 23.8950293,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "si3yai",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, K. Baršausko g. 57, 51423",
+    "lat": 54.8990388,
+    "lng": 23.9599289,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stbha9h",
+    "brand": "Circle K",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, J. Basanavičiaus g. 63, 36204",
+    "lat": 55.7175054,
+    "lng": 24.3712382,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sqzapcx",
+    "brand": "Circle K",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Gedimino g. 42B, 82174",
+    "lat": 55.8116867,
+    "lng": 23.5500705,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shv850i",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Talino g. 2B, 05200",
+    "lat": 54.7133435,
+    "lng": 25.2094358,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shg4snn",
+    "brand": "Circle K",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Rūtų g. 2B, 62119",
+    "lat": 54.3950614,
+    "lng": 24.0379049,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shxurot",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Taikos pr. 52A, 51305",
+    "lat": 54.9119499,
+    "lng": 23.9567415,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sd89sci",
+    "brand": "Circle K",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Vilniaus g. 62, 76251",
+    "lat": 55.9248038,
+    "lng": 23.3340344,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "snluw7i",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Geležinio Vilko g. 24, 08412",
+    "lat": 54.7514091,
+    "lng": 25.2663978,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sqki67v",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Varnių g. 46, 48403",
+    "lat": 54.9144567,
+    "lng": 23.9002271,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sj0tpim",
+    "brand": "Circle K",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Taikos pr. 112A, 93150",
+    "lat": 55.6664679,
+    "lng": 21.1726233,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sbw6xvv",
+    "brand": "Circle K",
+    "city": "Telšių r. sav.",
+    "address": "Telšiai, Luokės g. 70, 87128",
+    "lat": 55.9771223,
+    "lng": 22.2651123,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ss75h4s",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Prūsų g. 26A, 02154",
+    "lat": 54.6586559,
+    "lng": 25.2666334,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sdlsz5k",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Savanorių pr. 321, 50120",
+    "lat": 54.9193236,
+    "lng": 23.9507265,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgehsfo",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Eišiškių pl. 11, 02184",
+    "lat": 54.6515293,
+    "lng": 25.2694468,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s42e9cv",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Geležinio Vilko g. 2A, 03150",
+    "lat": 54.6710025,
+    "lng": 25.2366353,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "swfpigo",
+    "brand": "Circle K",
+    "city": "Varėnos r. sav.",
+    "address": "Varėna, Savanorių g. 5, 65186",
+    "lat": 54.2102459,
+    "lng": 24.5768123,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "svdw3yy",
+    "brand": "Circle K",
+    "city": "Palangos m. sav.",
+    "address": "Palanga, Kretingos g. 56, 00111",
+    "lat": 55.9146665,
+    "lng": 21.0779032,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sj9cu8c",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Tvirtovės al. 33A, 50157",
+    "lat": 54.9131287,
+    "lng": 23.9260738,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sae2toy",
+    "brand": "Circle K",
+    "city": "Biržų r. sav.",
+    "address": "Biržai, Kilučių g. 93, 41154",
+    "lat": 56.1948403,
+    "lng": 24.7721388,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq0mx93",
+    "brand": "Circle K",
+    "city": "Rokiškio r. sav.",
+    "address": "Rokiškis, Respublikos g. 111A, 42135",
+    "lat": 55.9522264,
+    "lng": 25.589774,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "syer3of",
+    "brand": "Circle K",
+    "city": "Šiaulių r. sav.",
+    "address": "Kuršėnai, Plento g. 1, 81115",
+    "lat": 55.999255,
+    "lng": 22.9896575,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6dor4a",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Briedžių takas 6B, 49106",
+    "lat": 54.9356474,
+    "lng": 23.9656705,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1nitw2",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Islandijos pl. 61C, 49117",
+    "lat": 54.9336111,
+    "lng": 23.9657728,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sluqu30",
+    "brand": "Circle K",
+    "city": "Kretingos r. sav.",
+    "address": "Kretinga, Klaipėdos g. 155, 97156",
+    "lat": 55.8635199,
+    "lng": 21.2177355,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sl9axqg",
+    "brand": "Degta",
+    "city": "Anykščių r. sav.",
+    "address": "Anykščiai, Vienuolio g. 34A, 29148",
+    "lat": 55.5226002,
+    "lng": 25.0879884,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ske6w8d",
+    "brand": "Degta",
+    "city": "Rokiškio r. sav.",
+    "address": "Rokiškis, Respublikos g. 113B, 42150",
+    "lat": 55.9466824,
+    "lng": 25.591055,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smnb6gt",
+    "brand": "Degta",
+    "city": "Elektrėnų sav.",
+    "address": "Vievis, Kauno g. 55A, 21371",
+    "lat": 54.7752192,
+    "lng": 24.8104952,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "scmanly",
+    "brand": "Deliuvis",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, G. Petkevičaitės-Bitės g. 35C, 37138",
+    "lat": 55.7224376,
+    "lng": 24.3421829,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxvcv6k",
+    "brand": "Deliuvis",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Pušaloto g. 140, 35100",
+    "lat": 55.7465858,
+    "lng": 24.3291567,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s165pfw",
+    "brand": "Deliuvis",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, S. Kerbedžio g. 2, 35135",
+    "lat": 55.7431736,
+    "lng": 24.3424941,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgjeck9",
+    "brand": "Emsi",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, Stoties g. 6B, 68110",
+    "lat": 54.5651422,
+    "lng": 23.3685518,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssvwius",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Kareivių g. 4, 09109",
+    "lat": 54.7179121,
+    "lng": 25.2956973,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sobf5pb",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Draugystės g. 8B, 51262",
+    "lat": 54.9080536,
+    "lng": 23.9920719,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssew9i6",
+    "brand": "Emsi",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Ūdrijos g. 2, 62402",
+    "lat": 54.4081413,
+    "lng": 24.0166467,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s4i1oix",
+    "brand": "Emsi",
+    "city": "Kaišiadorių r. sav.",
+    "address": "Kaišiadorys, Paukštininkų g. 4a, 56160",
+    "lat": 54.8643505,
+    "lng": 24.436539,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s3k5jk5",
+    "brand": "Emsi",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Miško g. 62, 77158",
+    "lat": 55.8018115,
+    "lng": 23.5637751,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgf0wn1",
+    "brand": "Emsi",
+    "city": "Trakų r. sav.",
+    "address": "Lentvaris, Sodų g. 3, 25117",
+    "lat": 54.6433749,
+    "lng": 25.0533215,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "snigzhe",
+    "brand": "Emsi",
+    "city": "Vilniaus r. sav.",
+    "address": "Bukiškis, Ukmergės g. 437, 14183",
+    "lat": 54.753617,
+    "lng": 25.211747,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8vg703",
+    "brand": "Emsi",
+    "city": "Vilniaus r. sav.",
+    "address": "Maišiagala, Mokyklos g. 26, 14243",
+    "lat": 54.8725093,
+    "lng": 25.0696242,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "svtunpb",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Gunkliškių g. 2F, 02231",
+    "lat": 54.6227504,
+    "lng": 25.1050189,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxbzuxz",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Kirtimų g. 33, 02300",
+    "lat": 54.6279215,
+    "lng": 25.1496569,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sut3qro",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Pajautos g. 31, 06200",
+    "lat": 54.7101432,
+    "lng": 25.1620536,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sdpwtfq",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Liepkalnio g. 112A, 02121",
+    "lat": 54.6526579,
+    "lng": 25.3057172,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sglgh84",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Savanorių pr. 225, 02300",
+    "lat": 54.641028,
+    "lng": 25.1841354,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sihtkxl",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Spyglių g. 2, 27101",
+    "lat": 54.6684024,
+    "lng": 25.1116773,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s927ggj",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Jeruzalės g. 2, 08414",
+    "lat": 54.7398609,
+    "lng": 25.2761745,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sicpqfx",
+    "brand": "Emsi",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Laisvės pr. 80B, 06125",
+    "lat": 54.7234552,
+    "lng": 25.2329482,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s11ofq0",
+    "brand": "Emsi",
+    "city": "Vilkaviškio r. sav.",
+    "address": "Vilkaviškis, S. Nėries g. 38, 70165",
+    "lat": 54.6581148,
+    "lng": 23.0332434,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfp7ehx",
+    "brand": "Emsi",
+    "city": "Šilutės r. sav.",
+    "address": "Šilutė, Gluosnių g. 4A, 99116",
+    "lat": 55.3489154,
+    "lng": 21.4689533,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s99604a",
+    "brand": "Emsi",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Sembos g. 5, 78347",
+    "lat": 55.8988578,
+    "lng": 23.2718645,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgr4hzq",
+    "brand": "Emsi",
+    "city": "Raseinių r. sav.",
+    "address": "Ariogala, Žemaičių g. 30, 60255",
+    "lat": 55.2608969,
+    "lng": 23.4889921,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sqpylyf",
+    "brand": "Emsi",
+    "city": "Pasvalio r. sav.",
+    "address": "Pasvalys, Taikos g. 24, 39132",
+    "lat": 56.063652,
+    "lng": 24.4257529,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sp8g0g6",
+    "brand": "Emsi",
+    "city": "Panevėžio r. sav.",
+    "address": "Panevėžys, Ramygalos g. 186A, 36224",
+    "lat": 55.7100897,
+    "lng": 24.3723092,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "st8q863",
+    "brand": "Emsi",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Nemuno g. 79A, 35189",
+    "lat": 55.7317427,
+    "lng": 24.3406939,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1bk7vv",
+    "brand": "Emsi",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Minijos g. 154A, 93263",
+    "lat": 55.6687698,
+    "lng": 21.1593011,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssezofu",
+    "brand": "Emsi",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Taikos pr. 124, 94286",
+    "lat": 55.661071,
+    "lng": 21.1762437,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8u73w6",
+    "brand": "Emsi",
+    "city": "Kėdainių r. sav.",
+    "address": "Juodgirio k. 1, 58212",
+    "lat": 55.4964609,
+    "lng": 22.604119,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "skmmood",
+    "brand": "Emsi",
+    "city": "Kauno r. sav.",
+    "address": "Kaunas, Vandžiogalos pl. 86A, 47478",
+    "lat": 54.9515318,
+    "lng": 23.8936351,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "slm94ge",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Jonavos g. 292B, 44131",
+    "lat": 54.9324269,
+    "lng": 23.9180391,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sujba3l",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, T. Masiulio g. 16A, 52375",
+    "lat": 54.8849948,
+    "lng": 24.0045315,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "son3bb1",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Armoniškių g. 31, 46401",
+    "lat": 54.8621145,
+    "lng": 23.8459355,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "srapol5",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Palemono g. 3A, 52159",
+    "lat": 54.9010209,
+    "lng": 24.0311752,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s7c3e86",
+    "brand": "Emsi",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Ateities pl. 40B, 52112",
+    "lat": 54.9218463,
+    "lng": 24.0477225,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sx7e2sj",
+    "brand": "Emsi",
+    "city": "Jonavos r. sav.",
+    "address": "Jonava, Vasario 16-osios g. 70, 55165",
+    "lat": 55.0708603,
+    "lng": 24.2588537,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sbzt1a",
+    "brand": "Emsi",
+    "city": "Biržų r. sav.",
+    "address": "Biržai, Jaunimo g. 2a, 41168",
+    "lat": 56.2076707,
+    "lng": 24.7708027,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
   }
 ]

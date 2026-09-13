@@ -1081,5 +1081,166 @@
   "Panevėžys, G. Petkevičaitės-Bitės g. 35C, 37138": {
     "lat": 55.7224376,
     "lng": 24.3421829
+  },
+  "Panevėžys, Pušaloto g. 140, 35100": {
+    "lat": 55.7465858,
+    "lng": 24.3291567
+  },
+  "Panevėžys, S. Kerbedžio g. 2, 35135": {
+    "lat": 55.7431736,
+    "lng": 24.3424941
+  },
+  "Marijampolė, Stoties g. 6B, 68110": {
+    "lat": 54.5651422,
+    "lng": 23.3685518
+  },
+  "Vilnius, Kareivių g. 4, 09109": {
+    "lat": 54.7179121,
+    "lng": 25.2956973
+  },
+  "Kaunas, Draugystės g. 8B, 51262": {
+    "lat": 54.9080536,
+    "lng": 23.9920719
+  },
+  "Pietarių k., Kauno g. 165, 68100": null,
+  "Alytus, Ūdrijos g. 2, 62402": {
+    "lat": 54.4081413,
+    "lng": 24.0166467
+  },
+  "Kaišiadorys, Paukštininkų g. 4a, 56160": {
+    "lat": 54.8643505,
+    "lng": 24.436539
+  },
+  "Skaisčiūnų k., Europos g. 11, 69338": null,
+  "Radviliškis, Miško g. 62, 77158": {
+    "lat": 55.8018115,
+    "lng": 23.5637751
+  },
+  "Sausių k., Sausių g. 2, 21401": null,
+  "Lentvaris, Sodų g. 3, 25117": {
+    "lat": 54.6433749,
+    "lng": 25.0533215
+  },
+  "Bukiškis, Ukmergės g. 437, 14183": {
+    "lat": 54.753617,
+    "lng": 25.211747
+  },
+  "Maišiagala, Mokyklos g. 26, 14243": {
+    "lat": 54.8725093,
+    "lng": 25.0696242
+  },
+  "Kreivalaužių k., Taikos g. 1, 15166": null,
+  "Vilnius, Gunkliškių g. 2F, 02231": {
+    "lat": 54.6227504,
+    "lng": 25.1050189
+  },
+  "Vilnius, Kirtimų g. 33, 02300": {
+    "lat": 54.6279215,
+    "lng": 25.1496569
+  },
+  "Vilnius, Pajautos g. 31, 06200": {
+    "lat": 54.7101432,
+    "lng": 25.1620536
+  },
+  "Vilnius, Liepkalnio g. 112A, 02121": {
+    "lat": 54.6526579,
+    "lng": 25.3057172
+  },
+  "Vilnius, Savanorių pr. 225, 02300": {
+    "lat": 54.641028,
+    "lng": 25.1841354
+  },
+  "Vilnius, Spyglių g. 2, 27101": {
+    "lat": 54.6684024,
+    "lng": 25.1116773
+  },
+  "Vilnius, Jeruzalės g. 2, 08414": {
+    "lat": 54.7398609,
+    "lng": 25.2761745
+  },
+  "Vilnius, Laisvės pr. 80B, 06125": {
+    "lat": 54.7234552,
+    "lng": 25.2329482
+  },
+  "Vilkaviškis, S. Nėries g. 38, 70165": {
+    "lat": 54.6581148,
+    "lng": 23.0332434
+  },
+  "Šilutė, Gluosnių g. 4A, 99116": {
+    "lat": 55.3489154,
+    "lng": 21.4689533
+  },
+  "Šiauliai, Sembos g. 5, 78347": {
+    "lat": 55.8988578,
+    "lng": 23.2718645
+  },
+  "Ariogala, Žemaičių g. 30, 60255": {
+    "lat": 55.2608969,
+    "lng": 23.4889921
+  },
+  "Raščių k. 1A, 60298": null,
+  "Pasvalys, Taikos g. 24, 39132": {
+    "lat": 56.063652,
+    "lng": 24.4257529
+  },
+  "Sereikonių k., Baltijos kelio g. 2, 39236": null,
+  "Šilagalio k., Panevėžio aplinkl. 12, 38242": null,
+  "Panevėžys, Ramygalos g. 186A, 36224": {
+    "lat": 55.7100897,
+    "lng": 24.3723092
+  },
+  "Panevėžys, Nemuno g. 79A, 35189": {
+    "lat": 55.7317427,
+    "lng": 24.3406939
+  },
+  "Lazdijų sen., Janaslavo k. 11, 67170": null,
+  "Jonušų k., Durpyno g. 63, 96173": null,
+  "Kalotės k., Medelyno g. 126, 96332": null,
+  "Klaipėda, Minijos g. 154A, 93263": {
+    "lat": 55.6687698,
+    "lng": 21.1593011
+  },
+  "Klaipėda, Taikos pr. 124, 94286": {
+    "lat": 55.661071,
+    "lng": 21.1762437
+  },
+  "Juodgirio k. 1, 58212": {
+    "lat": 55.4964609,
+    "lng": 22.604119
+  },
+  "Kaunas, Vandžiogalos pl. 86A, 47478": {
+    "lat": 54.9515318,
+    "lng": 23.8936351
+  },
+  "Ilgakiemio k., Kauno g. 25, 53288": null,
+  "Mastaičių k., Marijampolės g. 58, 53285": null,
+  "Žemaitkiemis, S. Krasausko g. 21, 54340": null,
+  "Kaunas, Jonavos g. 292B, 44131": {
+    "lat": 54.9324269,
+    "lng": 23.9180391
+  },
+  "Kaunas, T. Masiulio g. 16A, 52375": {
+    "lat": 54.8849948,
+    "lng": 24.0045315
+  },
+  "Kaunas, Armoniškių g. 31, 46401": {
+    "lat": 54.8621145,
+    "lng": 23.8459355
+  },
+  "Kaunas, Palemono g. 3A, 52159": {
+    "lat": 54.9010209,
+    "lng": 24.0311752
+  },
+  "Kaunas, Ateities pl. 40B, 52112": {
+    "lat": 54.9218463,
+    "lng": 24.0477225
+  },
+  "Jonava, Vasario 16-osios g. 70, 55165": {
+    "lat": 55.0708603,
+    "lng": 24.2588537
+  },
+  "Biržai, Jaunimo g. 2a, 41168": {
+    "lat": 56.2076707,
+    "lng": 24.7708027
   }
 }
