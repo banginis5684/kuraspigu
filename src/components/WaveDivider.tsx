@@ -28,7 +28,6 @@ export function WaveDivider() {
   useEffect(() => {
     const strip = stripRef.current;
     if (!strip) return;
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     let raf = 0;
     let offset = 0;
