@@ -9,32 +9,37 @@ export const metadata: Metadata = {
 
 export default function KainosPage() {
   return (
-    <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
-      <div className="mb-4">
-        <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
-          Degalų kainos
-        </h1>
-        <p className="mt-3 max-w-2xl text-subtle">
-          Filtruokite pagal savivaldybę ir rūšiuokite pagal degalų tipą, kad
-          rastumėte pigiausią degalinę šalia savęs.
-        </p>
-      </div>
+    <>
+      <section className="mx-auto max-w-6xl px-4 pt-16 sm:px-6">
+        <div className="mb-4">
+          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
+            Degalų kainos
+          </h1>
+          <p className="mt-3 max-w-2xl text-subtle">
+            Filtruokite pagal savivaldybę ir rūšiuokite pagal degalų tipą, kad
+            rastumėte pigiausią degalinę šalia savęs.
+          </p>
+        </div>
 
-      <div className="mb-8 rounded-xl border border-border bg-muted px-4 py-3 text-sm text-subtle">
-        Kainos — Lietuvos energetikos agentūros (LEA) skelbiami duomenys,
-        atnaujinti kartą per parą (savaitgaliais duomenys neatnaujinami).
-        Degalinių vietos žemėlapyje nustatytos automatiškai pagal adresą ir
-        gali būti netikslios.
-      </div>
+        <div className="mb-8 rounded-xl border border-border bg-muted px-4 py-3 text-sm text-subtle">
+          Kainos — Lietuvos energetikos agentūros (LEA) skelbiami duomenys,
+          atnaujinti kartą per parą (savaitgaliais duomenys neatnaujinami).
+          Degalinių vietos žemėlapyje nustatytos automatiškai pagal adresą ir
+          gali būti netikslios.
+        </div>
 
-      <div className="mb-12">
         <h2 className="mb-4 text-xl font-bold tracking-tight">
           Degalinių žemėlapis
         </h2>
+      </section>
+
+      <div className="mb-12">
         <StationMapLoader />
       </div>
 
-      <FuelPriceTable />
-    </section>
+      <section className="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
+        <FuelPriceTable />
+      </section>
+    </>
   );
 }

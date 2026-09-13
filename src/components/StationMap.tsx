@@ -36,7 +36,7 @@ export default function StationMap() {
 
   return (
     <div>
-      <div className="mb-4 flex flex-wrap gap-2">
+      <div className="mx-auto mb-4 flex max-w-6xl flex-wrap gap-2 px-4 sm:px-6">
         {FUEL_TYPES.map((f) => (
           <button
             key={f.id}
@@ -53,11 +53,11 @@ export default function StationMap() {
         ))}
       </div>
 
-      <div className="h-[480px] overflow-hidden rounded-2xl border border-border">
+      <div className="h-[600px] w-full border-y border-border">
         <MapContainer
           center={LITHUANIA_CENTER}
           zoom={7}
-          scrollWheelZoom={false}
+          scrollWheelZoom={true}
           style={{ height: "100%", width: "100%" }}
         >
           <TileLayer
