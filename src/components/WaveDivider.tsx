@@ -7,7 +7,7 @@ const PERIODS = 20;
 const AMPLITUDE = 14;
 const HEIGHT = 40;
 const TILE_WIDTH = PERIOD * PERIODS;
-const DURATION_MS = 28000; // one full tile-width loop — 2x slower than before
+const DURATION_MS = 56000; // one full tile-width loop — 2x slower again (was 28000)
 
 function buildWavePath(): string {
   let d = `M0,${HEIGHT / 2}`;
@@ -49,15 +49,15 @@ function WaveStrip({ reverse, flip }: { reverse: boolean; flip: boolean }) {
 
   return (
     <div
-      className="relative w-full overflow-hidden bg-background"
-      style={{ height: HEIGHT, transform: flip ? "scaleY(-1)" : undefined }}
+      className="relative h-1/2 w-full overflow-hidden"
+      style={{ transform: flip ? "scaleY(-1)" : undefined }}
     >
-      <div ref={stripRef} className="absolute inset-y-0 left-0 flex" style={{ width: TILE_WIDTH * 2 }}>
-        <svg width={TILE_WIDTH} height={HEIGHT} viewBox={`0 0 ${TILE_WIDTH} ${HEIGHT}`} preserveAspectRatio="none">
-          <path d={WAVE_PATH} fill="#050505" />
+      <div ref={stripRef} className="absolute inset-y-0 left-0 flex h-full" style={{ width: TILE_WIDTH * 2 }}>
+        <svg width={TILE_WIDTH} height="100%" viewBox={`0 0 ${TILE_WIDTH} ${HEIGHT}`} preserveAspectRatio="none">
+          <path d={WAVE_PATH} fill="#000000" />
         </svg>
-        <svg width={TILE_WIDTH} height={HEIGHT} viewBox={`0 0 ${TILE_WIDTH} ${HEIGHT}`} preserveAspectRatio="none">
-          <path d={WAVE_PATH} fill="#050505" />
+        <svg width={TILE_WIDTH} height="100%" viewBox={`0 0 ${TILE_WIDTH} ${HEIGHT}`} preserveAspectRatio="none">
+          <path d={WAVE_PATH} fill="#000000" />
         </svg>
       </div>
     </div>
@@ -66,7 +66,7 @@ function WaveStrip({ reverse, flip }: { reverse: boolean; flip: boolean }) {
 
 export function WaveDivider() {
   return (
-    <div aria-hidden className="sticky top-20 z-30 flex w-full flex-col">
+    <div aria-hidden className="pointer-events-none absolute inset-0 flex flex-col">
       <WaveStrip reverse flip />
       <WaveStrip reverse={false} flip={false} />
     </div>

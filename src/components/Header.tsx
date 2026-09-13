@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { Logo } from "./Logo";
-import { FluidHeaderBackground } from "./FluidHeaderBackground";
+import { WaveDivider } from "./WaveDivider";
 import { AuthModal } from "./AuthModal";
 import { useAuth } from "@/lib/auth-context";
 import { supabase } from "@/lib/supabase";
@@ -21,8 +21,8 @@ export function Header() {
   const { user } = useAuth();
 
   return (
-    <header className="sticky top-0 z-40 overflow-hidden bg-[#050505]">
-      <FluidHeaderBackground />
+    <header className="sticky top-0 z-40 overflow-hidden bg-[#18140f]">
+      <WaveDivider />
       <div className="relative mx-auto flex h-20 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="shrink-0">
           <Logo variant="dark" />
