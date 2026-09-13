@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { WaveDivider } from "@/components/WaveDivider";
 import { CookieConsent } from "@/components/CookieConsent";
 import { WelcomePopup } from "@/components/WelcomePopup";
 import { AuthProvider } from "@/lib/auth-context";
@@ -38,6 +39,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col">
         <AuthProvider>
           <Header />
+          <WaveDivider />
           <main className="flex-1">{children}</main>
           <Footer />
           <WelcomePopup />

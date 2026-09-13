@@ -26,6 +26,22 @@
   --color-brand-yellow: var(--brand-yellow);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --animate-wave-scroll: wave-scroll 14s linear infinite;
+}
+
+@keyframes wave-scroll {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-wave-scroll {
+    animation: none;
+  }
 }
 
 body {
