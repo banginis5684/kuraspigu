@@ -1,13 +1,17 @@
 import L from "leaflet";
+import { companySlug } from "./slug";
 
-export function priceIcon(price: number, isCheapest: boolean) {
+export function priceIcon(price: number, isCheapest: boolean, company?: string) {
   const bg = isCheapest ? "#f2b705" : "#111111";
   const color = isCheapest ? "#111111" : "#ffffff";
+  const logo = company
+    ? `<img src="/logos/${companySlug(company)}.png" alt="" onerror="this.remove()" style="width:26px;height:26px;border-radius:9999px;object-fit:contain;background:#ffffff;border:2px solid ${bg};box-shadow:0 1px 3px rgba(0,0,0,0.3);margin-bottom:2px;" />`
+    : "";
   return L.divIcon({
     className: "",
-    html: `<div style="background:${bg};color:${color};border-radius:9999px;padding:3px 8px;font-size:11px;font-weight:700;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,0.35);font-family:inherit;">${price.toFixed(3)} €</div>`,
-    iconSize: [60, 22],
-    iconAnchor: [30, 28],
+    html: `<div style="display:flex;flex-direction:column;align-items:center;">${logo}<div style="background:${bg};color:${color};border-radius:9999px;padding:3px 8px;font-size:11px;font-weight:700;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,0.35);font-family:inherit;">${price.toFixed(3)} €</div></div>`,
+    iconSize: [60, company ? 50 : 22],
+    iconAnchor: [30, company ? 56 : 28],
   });
 }
 
@@ -35,10 +39,14 @@ export function popupHtml(params: {
   address: string;
   isCheapest: boolean;
   fuelRows: { label: string; value: string; highlighted: boolean }[];
+  company?: string;
 }): string {
-  const { brand, city, address, isCheapest, fuelRows } = params;
+  const { brand, city, address, isCheapest, fuelRows, company } = params;
   const badge = isCheapest
     ? `<span style="margin-left:8px;border-radius:9999px;background:#f2b705;padding:2px 8px;font-size:10px;font-weight:700;text-transform:uppercase;color:#111111;">Pigiausia</span>`
+    : "";
+  const logo = company
+    ? `<img src="/logos/${companySlug(company)}.png" alt="" onerror="this.remove()" style="width:32px;height:32px;border-radius:9999px;object-fit:contain;background:#ffffff;border:1px solid #e2e2e2;flex-shrink:0;" />`
     : "";
   const rows = fuelRows
     .map(
@@ -47,8 +55,13 @@ export function popupHtml(params: {
     )
     .join("");
   return `<div style="min-width:160px;font-family:inherit;">
-    <div style="font-weight:600;color:#0a0a0a;">${escapeHtml(brand)}${badge}</div>
-    <div style="font-size:13px;color:#6b6b6b;">${escapeHtml(city)} · ${escapeHtml(address)}</div>
+    <div style="display:flex;align-items:center;gap:8px;">
+      ${logo}
+      <div>
+        <div style="font-weight:600;color:#0a0a0a;">${escapeHtml(brand)}${badge}</div>
+        <div style="font-size:13px;color:#6b6b6b;">${escapeHtml(city)} · ${escapeHtml(address)}</div>
+      </div>
+    </div>
     <div style="margin-top:8px;display:flex;flex-direction:column;gap:2px;font-size:13px;">${rows}</div>
   </div>`;
 }

@@ -125,7 +125,7 @@ function CheapestToday() {
               </div>
               {best && (
                 <div className="mt-6 text-sm text-subtle">
-                  <div className="font-medium text-foreground">{best.brand}</div>
+                  <div className="font-medium text-foreground">{best.company}</div>
                   <div>{best.city} · {best.address}</div>
                 </div>
               )}

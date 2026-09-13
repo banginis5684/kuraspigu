@@ -27,7 +27,7 @@ export function formatPrice(value: number | undefined | null): string {
   return `${value.toFixed(3)} €`;
 }
 
-export const COMPANIES_COUNT = new Set(STATIONS.map((s) => s.brand)).size;
+export const COMPANIES_COUNT = new Set(STATIONS.map((s) => s.company)).size;
 
 export const LAST_UPDATED: string | null = STATIONS.reduce<string | null>(
   (latest, s) => (!latest || s.updatedAt > latest ? s.updatedAt : latest),

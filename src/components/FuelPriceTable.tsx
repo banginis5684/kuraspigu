@@ -95,7 +95,7 @@ export function FuelPriceTable() {
                 }`}
               >
                 <td className="px-4 py-3 font-medium text-foreground">
-                  {station.brand}
+                  {station.company}
                   {station.id === cheapestId && (
                     <span className="ml-2 inline-block rounded-full bg-brand-yellow px-2 py-0.5 text-[10px] font-bold uppercase text-brand-black">
                       Pigiausia
@@ -104,6 +104,7 @@ export function FuelPriceTable() {
                 </td>
                 <td className="px-4 py-3 text-subtle">
                   {station.city} · {station.address}
+                  {station.brand !== station.company && ` · ${station.brand}`}
                 </td>
                 {FUEL_TYPES.map((f) => (
                   <td

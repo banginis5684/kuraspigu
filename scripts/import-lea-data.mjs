@@ -79,6 +79,10 @@ async function geocode(address) {
   return geocodeQuery(normalized).catch(() => null);
 }
 
+function normalizeCompanyName(raw) {
+  return raw.replace(/^(UAB|AB|VĮ|I\.?Į\.?|IĮ)\s+/i, "").trim();
+}
+
 function stableId(company, address) {
   const s = `${company}|${address}`;
   let hash = 0;
@@ -141,6 +145,7 @@ async function main() {
 
     stations.push({
       id: stableId(company, address),
+      company: normalizeCompanyName(company),
       brand,
       city,
       address,

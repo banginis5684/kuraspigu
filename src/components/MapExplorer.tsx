@@ -14,15 +14,17 @@ import {
   priceRange,
 } from "@/lib/data";
 import { clusterIcon, popupHtml, priceIcon } from "@/lib/map-icons";
+import { companySlug } from "@/lib/slug";
 import type { FuelType, Station } from "@/lib/types";
 
 const LITHUANIA_CENTER: [number, number] = [55.1694, 23.8813];
 const ALL_CITIES = "Visos savivaldybės";
 
 function downloadCsv(stations: Station[]) {
-  const header = ["Savivaldybė", "Degalinė", "Adresas", "A95", "Dyzelinas", "SND"];
+  const header = ["Savivaldybė", "Įmonė", "Degalinė", "Adresas", "A95", "Dyzelinas", "SND"];
   const rows = stations.map((s) => [
     s.city,
+    s.company,
     s.brand,
     s.address,
     s.prices.a95 ?? "",
@@ -68,14 +70,15 @@ function ClusterLayer({
       const price = s.prices[fuel];
       if (price == null) continue;
       const marker = L.marker([s.lat, s.lng], {
-        icon: priceIcon(price, s.id === cheapestId),
+        icon: priceIcon(price, s.id === cheapestId, s.company),
       });
       marker.bindPopup(
         popupHtml({
-          brand: s.brand,
+          brand: s.company,
           city: s.city,
-          address: s.address,
+          address: s.brand !== s.company ? `${s.address} · ${s.brand}` : s.address,
           isCheapest: s.id === cheapestId,
+          company: s.company,
           fuelRows: FUEL_TYPES.map((f) => ({
             label: f.shortLabel,
             value: formatPrice(s.prices[f.id]),
@@ -232,16 +235,27 @@ export default function MapExplorer() {
               >
                 <div className="text-xs text-subtle">{s.city}</div>
                 <div className="flex items-center justify-between gap-2">
-                  <div className="min-w-0">
-                    <div className="truncate text-sm font-semibold text-foreground">
-                      {s.brand}
-                      {s.id === cheapestId && (
-                        <span className="ml-2 rounded-full bg-brand-yellow px-2 py-0.5 text-[9px] font-bold uppercase text-brand-black">
-                          Pigiausia
-                        </span>
-                      )}
+                  <div className="flex min-w-0 items-center gap-2">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={`/logos/${companySlug(s.company)}.png`}
+                      alt=""
+                      className="h-6 w-6 shrink-0 rounded-full border border-border bg-white object-contain"
+                      onError={(e) => {
+                        e.currentTarget.style.display = "none";
+                      }}
+                    />
+                    <div className="min-w-0">
+                      <div className="truncate text-sm font-semibold text-foreground">
+                        {s.company}
+                        {s.id === cheapestId && (
+                          <span className="ml-2 rounded-full bg-brand-yellow px-2 py-0.5 text-[9px] font-bold uppercase text-brand-black">
+                            Pigiausia
+                          </span>
+                        )}
+                      </div>
+                      <div className="truncate text-xs text-subtle">{s.address}</div>
                     </div>
-                    <div className="truncate text-xs text-subtle">{s.address}</div>
                   </div>
                   <div className="shrink-0 text-sm font-bold text-foreground">
                     {formatPrice(s.prices[fuel])}

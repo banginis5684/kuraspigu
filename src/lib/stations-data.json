@@ -1,6 +1,7 @@
 [
   {
     "id": "syuly4q",
+    "company": "Utentra",
     "brand": "Utentra",
     "city": "Utenos r. sav.",
     "address": "Utena, Pramonės g. 16, 28119",
@@ -15,6 +16,7 @@
   },
   {
     "id": "schl4ac",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Prienų r. sav.",
     "address": "Gustaičių k., 59296",
@@ -29,6 +31,7 @@
   },
   {
     "id": "s8ib06v",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Ukmergės g. 246, 06120",
@@ -43,6 +46,7 @@
   },
   {
     "id": "swzhzrm",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Utenos r. sav.",
     "address": "Utena, Palangos g. 66, 28140",
@@ -57,6 +61,7 @@
   },
   {
     "id": "supa4gn",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Marijampolės sav.",
     "address": "Kantališkių k., 69841",
@@ -71,6 +76,7 @@
   },
   {
     "id": "s4hyvvu",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Kupiškio r. sav.",
     "address": "Kupiškis, Panevėžio g. 9, 40134",
@@ -85,6 +91,7 @@
   },
   {
     "id": "spy5504",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Minijos g. 90, 93239",
@@ -99,6 +106,7 @@
   },
   {
     "id": "sdfqiyy",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Kalvarijos sav.",
     "address": "Kreivukė, Turgaus g. 4, 69232",
@@ -113,6 +121,7 @@
   },
   {
     "id": "sfgt9oy",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Alytaus r. sav.",
     "address": "Alytaus k., 64464",
@@ -127,6 +136,7 @@
   },
   {
     "id": "s6tei1m",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Alytaus r. sav.",
     "address": "Kaniūkų k., 64104",
@@ -141,6 +151,7 @@
   },
   {
     "id": "sc78kep",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Alytaus r. sav.",
     "address": "Miklusėnai, Kauno g. 1, 62461",
@@ -155,6 +166,7 @@
   },
   {
     "id": "sd5txke",
+    "company": "Stateta",
     "brand": "Stateta",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Santaikos g. 28 B, 62123",
@@ -169,6 +181,7 @@
   },
   {
     "id": "sfea35f",
+    "company": "Junasa, Degalinė",
     "brand": "Junasa",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Bačiūnų g. 12a, 77109",
@@ -183,6 +196,7 @@
   },
   {
     "id": "swohlyz",
+    "company": "Junasa, Degalinė",
     "brand": "Junasa",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Žemaitės g. 131c, 76175",
@@ -197,6 +211,7 @@
   },
   {
     "id": "s9n7wlw",
+    "company": "Junasa, Degalinė",
     "brand": "Junasa",
     "city": "Šiaulių r. sav.",
     "address": "Gruzdžiai, M. Katiliškio g. 50, 81428",
@@ -211,6 +226,7 @@
   },
   {
     "id": "spdw79r",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, Statybininkų g. 8, 68108",
@@ -225,6 +241,7 @@
   },
   {
     "id": "sxigfg9",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Klaipėdos r. sav.",
     "address": "Gargždai, Klaipėdos g. 39, 96157",
@@ -239,6 +256,7 @@
   },
   {
     "id": "sp5iosr",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Kretingos g. 28A, 92211",
@@ -253,6 +271,7 @@
   },
   {
     "id": "sa2yprw",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Minijos g. 152A, 93263",
@@ -267,6 +286,7 @@
   },
   {
     "id": "sq7pac4",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Pramonės g. 5, 62323",
@@ -281,6 +301,7 @@
   },
   {
     "id": "sx4p3eo",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Prienų r. sav.",
     "address": "Mauručiai, Liepų g. 20, 59290",
@@ -295,6 +316,7 @@
   },
   {
     "id": "sgzrosg",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Miškininkų g. 7, 62201",
@@ -309,6 +331,7 @@
   },
   {
     "id": "st0ok3a",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Lazdijų r. sav.",
     "address": "Panarvės k., 67168",
@@ -323,6 +346,7 @@
   },
   {
     "id": "s1gsdj2",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Jurbarko r. sav.",
     "address": "Pašvenčio k., 74218",
@@ -337,6 +361,7 @@
   },
   {
     "id": "sgrfyjs",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Kauno m. sav.",
     "address": "Neveronių k., Martinavos g. 1, 54475",
@@ -351,6 +376,7 @@
   },
   {
     "id": "sjwnspb",
+    "company": "Bonsa",
     "brand": "Bonsa",
     "city": "Tauragės r. sav.",
     "address": "Vaidatonių k. 1, 73406",
@@ -365,6 +391,7 @@
   },
   {
     "id": "scp8dhv",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Gedimino g. 50C, 82482",
@@ -379,6 +406,7 @@
   },
   {
     "id": "s19lrl9",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Vilniaus g. 373A, 76326",
@@ -393,6 +421,7 @@
   },
   {
     "id": "s49eo0u",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Jankiškių g. 43a, 02300",
@@ -407,6 +436,7 @@
   },
   {
     "id": "skgpt5g",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Visagino sav.",
     "address": "Visaginas, Kosmoso g. 1, 31142",
@@ -421,6 +451,7 @@
   },
   {
     "id": "suhw0vd",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Kauno r. sav.",
     "address": "Babtai, Vandžiogalos g. 3, 54328",
@@ -435,6 +466,7 @@
   },
   {
     "id": "shq7lrz",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Klaipėdos r. sav.",
     "address": "Klaipėda, Jūrininkų pr. 29, 95225",
@@ -449,6 +481,7 @@
   },
   {
     "id": "s6v00yf",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Pramonės g. 7C, 78140",
@@ -463,6 +496,7 @@
   },
   {
     "id": "sutapx8",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Vilniaus r. sav.",
     "address": "Zujūnai, Buivydiškių g. 1A, 14160",
@@ -477,6 +511,7 @@
   },
   {
     "id": "sva4k35",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Akmenės r. sav.",
     "address": "Naujoji Akmenė,  V. Kudirkos g. 18A, 85171",
@@ -491,6 +526,7 @@
   },
   {
     "id": "s16y026",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Garažų g. 20, 50314",
@@ -505,6 +541,7 @@
   },
   {
     "id": "ss3p0z5",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Kauno r. sav.",
     "address": "Domeikava, Muitinės g. 2, 54359",
@@ -519,6 +556,7 @@
   },
   {
     "id": "s7a1p6y",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Vilniaus r. sav.",
     "address": "Čekoniškių k., 14207",
@@ -533,6 +571,7 @@
   },
   {
     "id": "sn457f1",
+    "company": "Tripletas",
     "brand": "Tripletas",
     "city": "Mažeikių r. sav.",
     "address": "Mažeikiai, Sedos g. 16, 89233",
@@ -547,6 +586,7 @@
   },
   {
     "id": "shjurzt",
+    "company": "Gindana",
     "brand": "UAB GINDANA degalai laivams",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Priešpilio g. 5, 91240",
@@ -561,6 +601,7 @@
   },
   {
     "id": "s3f1f22",
+    "company": "VIRŠI Lietuva",
     "brand": "VIRŠI Lietuva",
     "city": "Marijampolės sav.",
     "address": "Pasūduonės k., L.Taunio g. 3, 69331",
@@ -575,6 +616,7 @@
   },
   {
     "id": "sf8uhpk",
+    "company": "Regusa",
     "brand": "Regusa",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Marijampolės pl. 20, 46147",
@@ -589,6 +631,7 @@
   },
   {
     "id": "sj1blub",
+    "company": "Regusa",
     "brand": "Regusa",
     "city": "Marijampolės sav.",
     "address": "Gavaltuvos k., Sodo g. 11, 69370",
@@ -603,6 +646,7 @@
   },
   {
     "id": "s6tf8gh",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Kaišiadorių r. sav.",
     "address": "Rumšiškės, Lekavičiaus g. 71, 56337",
@@ -617,6 +661,7 @@
   },
   {
     "id": "sb7r3si",
+    "company": "Tomega",
     "brand": "Tomega",
     "city": "Druskininkų sav.",
     "address": "Druskininkai, Gardino g. 98, 66225",
@@ -631,6 +676,7 @@
   },
   {
     "id": "sacn7pa",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Ukmergės r. sav.",
     "address": "Ukmergė, Kareivinių g. 64, 20184",
@@ -645,6 +691,7 @@
   },
   {
     "id": "s12udr",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Ukmergės r. sav.",
     "address": "Ukmergė, Vilniaus g. 122, 20168",
@@ -659,6 +706,7 @@
   },
   {
     "id": "s835m5m",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Šilalės r. sav.",
     "address": "Šilalė, Rytinio kelio g. 19, 75133",
@@ -673,6 +721,7 @@
   },
   {
     "id": "smnrcn4",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Klaipėdos r. sav.",
     "address": "Gargždai, Kretingos pl. 1, 96105",
@@ -687,6 +736,7 @@
   },
   {
     "id": "smnpbk",
+    "company": "Bonsa",
     "brand": "Bonsa",
     "city": "Tauragės r. sav.",
     "address": "Taurai, Tilžės pl. 46, 72142",
@@ -701,6 +751,7 @@
   },
   {
     "id": "s65gxp2",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Kėdainių r. sav.",
     "address": "Aristava, Aristavos g. 4, 58111",
@@ -715,6 +766,7 @@
   },
   {
     "id": "sw1ql9j",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Šakių r. sav.",
     "address": "Girėnai, Kauno g. 50, 71129",
@@ -729,6 +781,7 @@
   },
   {
     "id": "sbvhjyr",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Šakių r. sav.",
     "address": "Šakiai, V. Kudirkos g. 11D, 71124",
@@ -743,6 +796,7 @@
   },
   {
     "id": "sveu5ls",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Jurbarko r. sav.",
     "address": "Jurbarkas, Knygnešių g. 9, 74212",
@@ -757,6 +811,7 @@
   },
   {
     "id": "sanfvin",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Jurbarko r. sav.",
     "address": "Jurbarkas, Muitinės g. 32, 74111",
@@ -771,6 +826,7 @@
   },
   {
     "id": "sujooyt",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Jurbarko r. sav.",
     "address": "Jurbarkas, S. Daukanto g. 66, 74170",
@@ -785,6 +841,7 @@
   },
   {
     "id": "s9bgb3f",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Šakių r. sav.",
     "address": "Kiduliai, Sūduvos g. 3, 71400",
@@ -799,6 +856,7 @@
   },
   {
     "id": "sfybk5",
+    "company": "Gelvybė",
     "brand": "Gelvybė",
     "city": "Jurbarko r. sav.",
     "address": "Seredžius, S. Šimkaus g. 69, 74425",
@@ -813,6 +871,7 @@
   },
   {
     "id": "sns6nlh",
+    "company": "Velseka",
     "brand": "Velseka",
     "city": "Kupiškio r. sav.",
     "address": "Kupiškis, Panevėžio g. 5, 40134",
@@ -827,6 +886,7 @@
   },
   {
     "id": "sfe65rf",
+    "company": "Regusa",
     "brand": "Regusa",
     "city": "Kazlų Rūdos sav.",
     "address": "Kazlų Rūda, S. Daukanto g. 19D, 69430",
@@ -841,6 +901,7 @@
   },
   {
     "id": "s3oc1cl",
+    "company": "Saurida",
     "brand": "Saurida",
     "city": "Skuodo r. sav.",
     "address": "Skuodas, Vytauto g. 20, 98123",
@@ -855,6 +916,7 @@
   },
   {
     "id": "s3tqitl",
+    "company": "Atsiauta",
     "brand": "Atsiauta",
     "city": "Šiaulių r. sav.",
     "address": "Kuršėnai, Vytauto g. 80, 81146",
@@ -869,6 +931,7 @@
   },
   {
     "id": "s8sjkyx",
+    "company": "Bemija",
     "brand": "Bemija",
     "city": "Ukmergės r. sav.",
     "address": "Ukmergė, Dariaus ir Girėno g. 31, 20154",
@@ -883,6 +946,7 @@
   },
   {
     "id": "sp1czru",
+    "company": "Leosta",
     "brand": "Leosta",
     "city": "Telšių r. sav.",
     "address": "Luokė, Telšių g. 66, 88236",
@@ -897,6 +961,7 @@
   },
   {
     "id": "s1eypco",
+    "company": "Regusa",
     "brand": "Regusa",
     "city": "Vilkaviškio r. sav.",
     "address": "Kybartai, J. Basanavičiaus g. 45A, 70417",
@@ -911,6 +976,7 @@
   },
   {
     "id": "san5b6n",
+    "company": "Antivis",
     "brand": "Antivis",
     "city": "Kelmės r. sav.",
     "address": "Tytuvėnai, Žemaitės g. 14, 86490",
@@ -925,6 +991,7 @@
   },
   {
     "id": "sb7yyve",
+    "company": "Žibalas",
     "brand": "Žibalas",
     "city": "Jonavos r. sav.",
     "address": "Jonava, Taurostos g. 16A, 55195",
@@ -939,6 +1006,7 @@
   },
   {
     "id": "stsd7e7",
+    "company": "Prie Luksto",
     "brand": "Prie Luksto",
     "city": "Telšių r. sav.",
     "address": "Telšiai, Masčio g. 21, 87139",
@@ -953,6 +1021,7 @@
   },
   {
     "id": "s4mbkmg",
+    "company": "Tomega",
     "brand": "Tomega",
     "city": "Šalčininkų r. sav.",
     "address": "Tartoko k., 17127",
@@ -967,6 +1036,7 @@
   },
   {
     "id": "sc50nop",
+    "company": "Tumasa",
     "brand": "Tumasa",
     "city": "Mažeikių r. sav.",
     "address": "Židikai, Mažeikių g. 10, 89442",
@@ -981,6 +1051,7 @@
   },
   {
     "id": "stsd83y",
+    "company": "Tomega",
     "brand": "Tomega",
     "city": "Šalčininkų r. sav.",
     "address": "Dumblės k., 17178",
@@ -995,6 +1066,7 @@
   },
   {
     "id": "siqca7j",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Kretingos r. sav.",
     "address": "Kretinga, Vilniaus g. 29B, 97101",
@@ -1009,6 +1081,7 @@
   },
   {
     "id": "srgk12j",
+    "company": "Trevena",
     "brand": "Trevena",
     "city": "Kretingos r. sav.",
     "address": "Darbėnai, Laisvės g. 15, 97264",
@@ -1023,6 +1096,7 @@
   },
   {
     "id": "s7ijqxl",
+    "company": "Plungės lagūna",
     "brand": "Plungės lagūna",
     "city": "Rietavo sav.",
     "address": "Rietavas, Plungės g. 32, 90313",
@@ -1037,6 +1111,7 @@
   },
   {
     "id": "sw5li6h",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Kauno g. 73, 62107",
@@ -1051,6 +1126,7 @@
   },
   {
     "id": "sjaokg",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Pramonės pr. 37, 51271",
@@ -1065,6 +1141,7 @@
   },
   {
     "id": "sctgzk5",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Varnių g. 50, 48401",
@@ -1079,6 +1156,7 @@
   },
   {
     "id": "se0ijxv",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Marijampolės sav.",
     "address": "Aleksandravo k., 68100",
@@ -1093,6 +1171,7 @@
   },
   {
     "id": "sngagpy",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kauno r. sav.",
     "address": "Biruliškių k., 54469",
@@ -1107,6 +1186,7 @@
   },
   {
     "id": "s2iyspi",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Veiverių g. 148B, 46392",
@@ -1121,6 +1201,7 @@
   },
   {
     "id": "s7ynm6l",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Kalvarijos g. 138, 46403",
@@ -1135,6 +1216,7 @@
   },
   {
     "id": "spqcmrh",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Elektrėnų sav.",
     "address": "Kakliniškių k., Žilvičių g. 1A, 26138",
@@ -1149,6 +1231,7 @@
   },
   {
     "id": "s91u01a",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Minijos g. 44, 91197",
@@ -1163,6 +1246,7 @@
   },
   {
     "id": "sq9rnfd",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Mažeikių r. sav.",
     "address": "Mažeikiai, Skuodo g. 14, 89100",
@@ -1177,6 +1261,7 @@
   },
   {
     "id": "sk994cq",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Mažeikių r. sav.",
     "address": "Mažeikiai, Žemaitijos g. 42, 89239",
@@ -1191,6 +1276,7 @@
   },
   {
     "id": "sszmesx",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Tauragės r. sav.",
     "address": "Tauragė, Gedimino g. 46, 72336",
@@ -1205,6 +1291,7 @@
   },
   {
     "id": "supdygo",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Juodasis kl. 32, 11307",
@@ -1219,6 +1306,7 @@
   },
   {
     "id": "srrih0",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, O. Milašiaus g. 31, 10102",
@@ -1233,6 +1321,7 @@
   },
   {
     "id": "sr8flmr",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Ukmergės g. 319, 06305",
@@ -1247,6 +1336,7 @@
   },
   {
     "id": "scivf36",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Žirmūnų g. 1T, 09239",
@@ -1261,6 +1351,7 @@
   },
   {
     "id": "swxgn2b",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Telšių r. sav.",
     "address": "Telšiai, Plungės g. 33 D, 87329",
@@ -1275,6 +1366,7 @@
   },
   {
     "id": "smsd08g",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Serbentų g. 82, 77126",
@@ -1289,6 +1381,7 @@
   },
   {
     "id": "svmqt3o",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Panevėžio r. sav.",
     "address": "Nausodė, Šiaulių g. 50, 38366",
@@ -1303,6 +1396,7 @@
   },
   {
     "id": "ss6s4v",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Klaipėdos g. 162 D, 37372",
@@ -1317,6 +1411,7 @@
   },
   {
     "id": "sw9sbgh",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Senamiesčio g. 115, 35114",
@@ -1331,6 +1426,7 @@
   },
   {
     "id": "ssp1vcl",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Kretingos r. sav.",
     "address": "Vilimiškės k., 97220",
@@ -1345,6 +1441,7 @@
   },
   {
     "id": "s9io9qu",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Šilutės pl. 94, 95264",
@@ -1359,6 +1456,7 @@
   },
   {
     "id": "sx90lav",
+    "company": "Orlen Baltics Retail",
     "brand": "Orlen",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Šilutės pl. 26A, 91177",
@@ -1373,6 +1471,7 @@
   },
   {
     "id": "sh1sjh4",
+    "company": "I.Stonkuvienės prekybos įmonė",
     "brand": "I.Stonkuvienės prekybos įmonė",
     "city": "Kretingos r. sav.",
     "address": "Kartena, Kretingos g. 51, 97351",
@@ -1387,6 +1486,7 @@
   },
   {
     "id": "s1xrqbm",
+    "company": "Joniškio rajono Skaistčio žemės ūkio bendrovė",
     "brand": "Joniškio rajono Skaistčio žemės ūkio bendrovė",
     "city": "Joniškio r. sav.",
     "address": "Skaistgirys, Liepų g. 22, 84380",
@@ -1401,6 +1501,7 @@
   },
   {
     "id": "sxpplrg",
+    "company": "MB Tormenta",
     "brand": "Tormenta",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Linkuvos g. 77, 48314",
@@ -1415,6 +1516,7 @@
   },
   {
     "id": "skc7wvr",
+    "company": "S.Savicko įmonė",
     "brand": "S.Savicko įmonė",
     "city": "Kėdainių r. sav.",
     "address": "Kėdainiai, Šėtos g. 120, 58115",
@@ -1429,6 +1531,7 @@
   },
   {
     "id": "sjpn4ew",
+    "company": "S.Savicko įmonė",
     "brand": "S.Savicko įmonė",
     "city": "Kėdainių r. sav.",
     "address": "Kėdainiai, Dariaus ir Girėno 23 A, 57149",
@@ -1443,6 +1546,7 @@
   },
   {
     "id": "suf0z1u",
+    "company": "S.Savicko įmonė",
     "brand": "S.Savicko įmonė",
     "city": "Kėdainių r. sav.",
     "address": "Kėdainiai, Gedimino g. 50, 57309",
@@ -1457,6 +1561,7 @@
   },
   {
     "id": "s5awln7",
+    "company": "Sigito Rimkevičiaus komercinė įmonė",
     "brand": "Sigito Rimkevičiaus komercinė įmonė",
     "city": "Joniškio r. sav.",
     "address": "Joniškis, Turgaus g. 3, 84172",
@@ -1471,6 +1576,7 @@
   },
   {
     "id": "st8to5e",
+    "company": "Sigito Rimkevičiaus komercinė įmonė",
     "brand": "Sigito Rimkevičiaus komercinė įmonė",
     "city": "Kėdainių r. sav.",
     "address": "Pelėdnagiai, Miškininkų g. 14, 58163",
@@ -1485,6 +1591,7 @@
   },
   {
     "id": "szgtoci",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Anykščių r. sav.",
     "address": "Anykščiai, A. Vienuolio g. 32A, 29149",
@@ -1499,6 +1606,7 @@
   },
   {
     "id": "sf7go8l",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Ukmergės r. sav.",
     "address": "Ukmergė, Kauno g. 37, 20120",
@@ -1513,6 +1621,7 @@
   },
   {
     "id": "sixrg3j",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Kalvarijų g. 204G, 08247",
@@ -1527,6 +1636,7 @@
   },
   {
     "id": "s9186vy",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, Stoties g. 49, 68261",
@@ -1541,6 +1651,7 @@
   },
   {
     "id": "smlep5g",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Vilniaus m. sav.",
     "address": "Grigiškės, Vilniaus g. 8, 27101",
@@ -1555,6 +1666,7 @@
   },
   {
     "id": "s89n1n2",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Utenos r. sav.",
     "address": "Utena, Palijoniškio g. 1, 28183",
@@ -1569,6 +1681,7 @@
   },
   {
     "id": "s8ir592",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Ignalinos r. sav.",
     "address": "Ignalina, Švenčionių g. 29A, 30132",
@@ -1583,6 +1696,7 @@
   },
   {
     "id": "sy6wciq",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, Sporto g. 50A, 68110",
@@ -1597,6 +1711,7 @@
   },
   {
     "id": "s8fz8cu",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Visagino sav.",
     "address": "Visaginas, Kosmoso g. 3, 31142",
@@ -1611,6 +1726,7 @@
   },
   {
     "id": "sgysdm5",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Buivydiškių g. 5, 07171",
@@ -1625,6 +1741,7 @@
   },
   {
     "id": "srtsvd6",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Šalčininkų r. sav.",
     "address": "Skraičionys, Skraičionių g. 1, 17140",
@@ -1639,6 +1756,7 @@
   },
   {
     "id": "ssmnp5h",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Šakių r. sav.",
     "address": "Kudirkos Naumiestis, Šakių g. 51, 71319",
@@ -1653,6 +1771,7 @@
   },
   {
     "id": "shuj7q3",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Rokiškio r. sav.",
     "address": "Obeliai, Dariaus ir Girėno g. 36, 42209",
@@ -1667,6 +1786,7 @@
   },
   {
     "id": "soyv5cd",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Marijampolės sav.",
     "address": "Puskelnių k., Plytinės g. 2, 68103",
@@ -1681,6 +1801,7 @@
   },
   {
     "id": "suwau4q",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Palemono g. 171, 52107",
@@ -1695,6 +1816,7 @@
   },
   {
     "id": "s8bo3zx",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Laisvės pr. 125A, 06118",
@@ -1709,6 +1831,7 @@
   },
   {
     "id": "sub47ur",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Šv. Stepono g. 44, 01312",
@@ -1723,6 +1846,7 @@
   },
   {
     "id": "syqbqbw",
+    "company": "Alauša",
     "brand": "Alauša",
     "city": "Šiaulių r. sav.",
     "address": "Kairiai, Plento g. 2B, 80114",
@@ -1737,6 +1861,7 @@
   },
   {
     "id": "sjb8v51",
+    "company": "Andopas",
     "brand": "Andopas",
     "city": "Šilutės r. sav.",
     "address": "Šilutė, Ramučių g. 43, 99150",
@@ -1751,6 +1876,7 @@
   },
   {
     "id": "sr6nc5l",
+    "company": "Apsaga",
     "brand": "Apsaga",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Pramonės g. 3A, 78140",
@@ -1765,6 +1891,7 @@
   },
   {
     "id": "srf9zxl",
+    "company": "Apsaga",
     "brand": "Apsaga",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Pramonės g. 28, 77116",
@@ -1779,6 +1906,7 @@
   },
   {
     "id": "swd2ygs",
+    "company": "Apsaga",
     "brand": "Apsaga",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Vilniaus g. 16, 76265",
@@ -1793,6 +1921,7 @@
   },
   {
     "id": "soc6o9s",
+    "company": "Apsaga",
     "brand": "Apsaga",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Šiaulių g. 12, 82142",
@@ -1807,6 +1936,7 @@
   },
   {
     "id": "stpdatg",
+    "company": "Autograndas",
     "brand": "Autograndas",
     "city": "Visagino sav.",
     "address": "Visaginas, Taikos pr. 47, 31217",
@@ -1821,6 +1951,7 @@
   },
   {
     "id": "spmifh0",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Velžio kl. 74, 36148",
@@ -1835,6 +1966,7 @@
   },
   {
     "id": "sbxwstr",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Santaikos g. 33, 62100",
@@ -1849,6 +1981,7 @@
   },
   {
     "id": "s686h5z",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, P. Armino g. 69, 68127",
@@ -1863,6 +1996,7 @@
   },
   {
     "id": "sw2gwk3",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Telšių r. sav.",
     "address": "Telšiai, Šiaulių pl. 12, 88101",
@@ -1877,6 +2011,7 @@
   },
   {
     "id": "sphjpbo",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kėdainių r. sav.",
     "address": "Kėdainiai, J. Basanavičiaus g. 95B, 57352",
@@ -1891,6 +2026,7 @@
   },
   {
     "id": "sg203hu",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Tilžės g. 90, 91101",
@@ -1905,6 +2041,7 @@
   },
   {
     "id": "ss64do8",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Mažeikių r. sav.",
     "address": "Mažeikiai, M. Daukšos g. 17, 89234",
@@ -1919,6 +2056,7 @@
   },
   {
     "id": "sxfu69e",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Molėtų r. sav.",
     "address": "Molėtai, Vilniaus g. 104, 33114",
@@ -1933,6 +2071,7 @@
   },
   {
     "id": "sq21ibp",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Širvintų r. sav.",
     "address": "Širvintos, Musninkų g. 21, 19126",
@@ -1947,6 +2086,7 @@
   },
   {
     "id": "slc55nb",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Ukmergės r. sav.",
     "address": "Ukmergė, Kauno g. 49, 20115",
@@ -1961,6 +2101,7 @@
   },
   {
     "id": "sb9c49n",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Druskininkų sav.",
     "address": "Druskininkai, Gardino g. 79, 69191",
@@ -1975,6 +2116,7 @@
   },
   {
     "id": "si1fdds",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Liepų g. 79A, 92195",
@@ -1989,6 +2131,7 @@
   },
   {
     "id": "sif2z11",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Marijampolės sav.",
     "address": "Pietarių k., Kauno g. 164, 68100",
@@ -2003,6 +2146,7 @@
   },
   {
     "id": "snts8lr",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Gerosios Vilties g. 33, 03202",
@@ -2017,6 +2161,7 @@
   },
   {
     "id": "st8ue89",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Molėtų pl. 27A, 08450",
@@ -2031,6 +2176,7 @@
   },
   {
     "id": "smmzxxd",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Druskininkų sav.",
     "address": "Druskininkai, Leipalingio g. 26, 66371",
@@ -2045,6 +2191,7 @@
   },
   {
     "id": "s93p4b4",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Jonavos g. 60A, 44191",
@@ -2059,6 +2206,7 @@
   },
   {
     "id": "smfnh04",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Varėnos r. sav.",
     "address": "Merkinė, Vilniaus g. 87, 65333",
@@ -2073,6 +2221,7 @@
   },
   {
     "id": "s8uvrek",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Jonavos r. sav.",
     "address": "Jonava, Žemaitės g. 1, 55134",
@@ -2087,6 +2236,7 @@
   },
   {
     "id": "s55dns8",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Šiaulių g. 1A, 82142",
@@ -2101,6 +2251,7 @@
   },
   {
     "id": "st0kc97",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Metalo g. 4B, 02189",
@@ -2115,6 +2266,7 @@
   },
   {
     "id": "s6zdoab",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Zujūnų g. 2A, 06200",
@@ -2129,6 +2281,7 @@
   },
   {
     "id": "spnvfrl",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Joniškio r. sav.",
     "address": "Joniškis, Vilniaus g. 72, 84172",
@@ -2143,6 +2296,7 @@
   },
   {
     "id": "smto898",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Vaidoto g. 153, 45392",
@@ -2157,6 +2311,7 @@
   },
   {
     "id": "slse38h",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Pakruojo r. sav.",
     "address": "Pakruojis, Statybininkų g. 28, 83163",
@@ -2171,6 +2326,7 @@
   },
   {
     "id": "s92046j",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Utenos r. sav.",
     "address": "Utena, Basanavičiaus g. 1B, 28138",
@@ -2185,6 +2341,7 @@
   },
   {
     "id": "sds2f20",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus r. sav.",
     "address": "Grigaičiai, Pavilnės g. 1, 11236",
@@ -2199,6 +2356,7 @@
   },
   {
     "id": "sbmt6gp",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Savanorių pr. 121, 03150",
@@ -2213,6 +2371,7 @@
   },
   {
     "id": "sj5mzqy",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius,  Kalvarijų g. 161A, 08311",
@@ -2227,6 +2386,7 @@
   },
   {
     "id": "sr1hlfp",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Antakalnio g. 128, 10200",
@@ -2241,6 +2401,7 @@
   },
   {
     "id": "se3r2wk",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Visalaukio g. 2, 08401",
@@ -2255,6 +2416,7 @@
   },
   {
     "id": "sinvtsr",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, B. Brazdžionio g. 2, 47266",
@@ -2269,6 +2431,7 @@
   },
   {
     "id": "sa4oag4",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Varėnos r. sav.",
     "address": "Varėna, M. K. Čiurlionio g. 63, 65219",
@@ -2283,6 +2446,7 @@
   },
   {
     "id": "sfrdxuv",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Trakų r. sav.",
     "address": "Trakai, Vilniaus g. 33, 21118",
@@ -2297,6 +2461,7 @@
   },
   {
     "id": "s3lkfov",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šilutės r. sav.",
     "address": "Šilutė, Klaipėdos g. 4A, 99116",
@@ -2311,6 +2476,7 @@
   },
   {
     "id": "scudwph",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šilalės r. sav.",
     "address": "Šilalė, Rytinio kelio g. 2, 75122",
@@ -2325,6 +2491,7 @@
   },
   {
     "id": "sq93y26",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Kupiškio g. 4, 76146",
@@ -2339,6 +2506,7 @@
   },
   {
     "id": "s56twnm",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šalčininkų r. sav.",
     "address": "Šalčininkai, Vilniaus g. 5A, 17102",
@@ -2353,6 +2521,7 @@
   },
   {
     "id": "sg0a0ns",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šakių r. sav.",
     "address": "Šakiai, Sodų g. 1, 71136",
@@ -2367,6 +2536,7 @@
   },
   {
     "id": "sypamsp",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Šakių r. sav.",
     "address": "Griškabūdis, A. Skelčio g., 71296",
@@ -2381,6 +2551,7 @@
   },
   {
     "id": "sua3uxz",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Skuodo r. sav.",
     "address": "Skuodas, Vytauto g. 22, 98122",
@@ -2395,6 +2566,7 @@
   },
   {
     "id": "s20tjl3",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Rietavo sav.",
     "address": "Rietavas, Dariaus ir Girėno g. 19, 90316",
@@ -2409,6 +2581,7 @@
   },
   {
     "id": "skx4hxz",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Raseinių r. sav.",
     "address": "Kalnujų k. 1, 60191",
@@ -2423,6 +2596,7 @@
   },
   {
     "id": "sfz8i7y",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Raseinių r. sav.",
     "address": "Raseiniai, Vilniaus g. 30, 60183",
@@ -2437,6 +2611,7 @@
   },
   {
     "id": "sat04nm",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Miško g. 64, 82128",
@@ -2451,6 +2626,7 @@
   },
   {
     "id": "sjd3m7f",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Radviliškio r. sav.",
     "address": "Užuovėjos k., 82215",
@@ -2465,6 +2641,7 @@
   },
   {
     "id": "svcke1v",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Prienų r. sav.",
     "address": "Prienai, Vilniaus g. 3A, 59115",
@@ -2479,6 +2656,7 @@
   },
   {
     "id": "sgrmczc",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Plungės r. sav.",
     "address": "Plateliai,  Žemaičių Kalvarijos g. 1A, 90421",
@@ -2493,6 +2671,7 @@
   },
   {
     "id": "s2k4evv",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Pasvalio r. sav.",
     "address": "Pasvalys, Mūšos g. 18, 39104",
@@ -2507,6 +2686,7 @@
   },
   {
     "id": "sehrdsb",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Palangos m. sav.",
     "address": "Palanga, Klaipėdos pl. 44, 00111",
@@ -2521,6 +2701,7 @@
   },
   {
     "id": "soql49k",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Palangos m. sav.",
     "address": "Palanga, Ganyklų g. 28C, 00126",
@@ -2535,6 +2716,7 @@
   },
   {
     "id": "sz68p4z",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Mažeikių r. sav.",
     "address": "Tirkšliai, Laukų g. 10, 89330",
@@ -2549,6 +2731,7 @@
   },
   {
     "id": "sxv0i2z",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Lazdijų r. sav.",
     "address": "Lazdijai, Turistų g. 88, 67102",
@@ -2563,6 +2746,7 @@
   },
   {
     "id": "s1ceo1f",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Klaipėdos r. sav.",
     "address": "Gargždai, Dariaus ir Girėno g. 10, 96144",
@@ -2577,6 +2761,7 @@
   },
   {
     "id": "s6urmpt",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Klaipėdos r. sav.",
     "address": "Priekulė, Klaipėdos g. 61, 96342",
@@ -2591,6 +2776,7 @@
   },
   {
     "id": "snst4w9",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno r. sav.",
     "address": "Jaučakių k., 54217",
@@ -2605,6 +2791,7 @@
   },
   {
     "id": "s308smr",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Raudondvario pl. 82, 47179",
@@ -2619,6 +2806,7 @@
   },
   {
     "id": "sfn6sxd",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Chemijos g. 6, 51344",
@@ -2633,6 +2821,7 @@
   },
   {
     "id": "sr37j3f",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Druskininkų sav.",
     "address": "Leipalingis, Merkinės g. 37, 67280",
@@ -2647,6 +2836,7 @@
   },
   {
     "id": "svv3bsl",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Anykščių r. sav.",
     "address": "Anykščiai, Mindaugo g. 23, 29141",
@@ -2661,6 +2851,7 @@
   },
   {
     "id": "ssuv4ur",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Jurbarko r. sav.",
     "address": "Jurbarkas, Muitinės g. 22A, 74111",
@@ -2675,6 +2866,7 @@
   },
   {
     "id": "ss6a6sr",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Taikos pr. 120, 52140",
@@ -2689,6 +2881,7 @@
   },
   {
     "id": "s8xf7k",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Neringos sav.",
     "address": "Neringa, Nidos-Smiltynės pl. 6, 93125",
@@ -2703,6 +2896,7 @@
   },
   {
     "id": "sq5pgs1",
+    "company": "Baltic Petroleum",
     "brand": "Baltic Petroleum",
     "city": "Akmenės r. sav.",
     "address": "Naujoji Akmenė, V. Kudirkos g. 21A, 85145",
@@ -2717,6 +2911,7 @@
   },
   {
     "id": "s91n2hx",
+    "company": "Boost Petrol",
     "brand": "Abromika",
     "city": "Utenos r. sav.",
     "address": "Utena, Zarasų g. 9, 28216",
@@ -2731,6 +2926,7 @@
   },
   {
     "id": "sl164m9",
+    "company": "Boost Petrol",
     "brand": "Abromika",
     "city": "Molėtų r. sav.",
     "address": "Smėlinkos vs. 1, 33171",
@@ -2745,6 +2941,7 @@
   },
   {
     "id": "slydbwd",
+    "company": "Boost Petrol",
     "brand": "Abromika",
     "city": "Kelmės r. sav.",
     "address": "Kelmė, Kęstučio g. 1B, 86139",
@@ -2759,6 +2956,7 @@
   },
   {
     "id": "sguuw0n",
+    "company": "Boost Petrol",
     "brand": "Boost Petrol",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Marvelės g. 132, 46230",
@@ -2773,6 +2971,7 @@
   },
   {
     "id": "skmicnt",
+    "company": "Boost Petrol",
     "brand": "Abromika",
     "city": "Elektrėnų sav.",
     "address": "Elektrėnai, Dubijos g. 36, 26130",
@@ -2787,6 +2986,7 @@
   },
   {
     "id": "solbsqy",
+    "company": "Borusta",
     "brand": "Borusta",
     "city": "Birštono sav.",
     "address": "Birštonas, Prienų g. 14, 59219",
@@ -2801,6 +3001,7 @@
   },
   {
     "id": "sw3y664",
+    "company": "Borusta",
     "brand": "Borusta",
     "city": "Trakų r. sav.",
     "address": "Aukštadvaris, Vilniaus g. 2a, 21253",
@@ -2815,6 +3016,7 @@
   },
   {
     "id": "stxdpg5",
+    "company": "Borusta",
     "brand": "Borusta",
     "city": "Prienų r. sav.",
     "address": "Stakliškės, Piliakalnio g. 3, 59370",
@@ -2829,6 +3031,7 @@
   },
   {
     "id": "scx538i",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, Kauno g. 130, 68230",
@@ -2843,6 +3046,7 @@
   },
   {
     "id": "smqdks",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Tilžės g. 56A, 91110",
@@ -2857,6 +3061,7 @@
   },
   {
     "id": "s1oihws",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Naujoji g. 120, 62175",
@@ -2871,6 +3076,7 @@
   },
   {
     "id": "s6uoou6",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Pramonės pr. 18, 51183",
@@ -2885,6 +3091,7 @@
   },
   {
     "id": "sfwc5up",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Raudondvario pl. 107A, 47186",
@@ -2899,6 +3106,7 @@
   },
   {
     "id": "sf69jss",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Utenos r. sav.",
     "address": "Utena, J. Basanavičiaus g. 3, 28134",
@@ -2913,6 +3121,7 @@
   },
   {
     "id": "stn2wv6",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Kareivių g. 3, 08221",
@@ -2927,6 +3136,7 @@
   },
   {
     "id": "sm79lfv",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Savanorių pr. 118, 03153",
@@ -2941,6 +3151,7 @@
   },
   {
     "id": "sd9ydtk",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Savanorių pr. 119A, 03150",
@@ -2955,6 +3166,7 @@
   },
   {
     "id": "sgz2lmi",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Žemaičių pl. 19, 48255",
@@ -2969,6 +3181,7 @@
   },
   {
     "id": "sszu9eh",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Šilutės r. sav.",
     "address": "Šilutė, Cintjoniškių g. 15, 99116",
@@ -2983,6 +3196,7 @@
   },
   {
     "id": "sj5pthl",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Sausio 15-osios g. 2, 91200",
@@ -2997,6 +3211,7 @@
   },
   {
     "id": "sdp1ft3",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Druskininkų sav.",
     "address": "Druskininkai, M. K. Čiurlionio g. 113, 66161",
@@ -3011,6 +3226,7 @@
   },
   {
     "id": "sse11fl",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Klaipėdos g. 92A, 37383",
@@ -3025,6 +3241,7 @@
   },
   {
     "id": "s7jyjl0",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Utenos r. sav.",
     "address": "Utena, J. Basanavičiaus g. 108A, 28214",
@@ -3039,6 +3256,7 @@
   },
   {
     "id": "suipmqa",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Elektrėnų sav.",
     "address": "Elektrėnai, Sabališkių g. 1F, 26128",
@@ -3053,6 +3271,7 @@
   },
   {
     "id": "sn7a08r",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, R. Kalantos g. 68, 52365",
@@ -3067,6 +3286,7 @@
   },
   {
     "id": "sm5fjth",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Taikos pr. 61B, 91182",
@@ -3081,6 +3301,7 @@
   },
   {
     "id": "s4azubs",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Dubijos g. 20A, 77207",
@@ -3095,6 +3316,7 @@
   },
   {
     "id": "sf2orn4",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Sporto g. 16A, 09200",
@@ -3109,6 +3331,7 @@
   },
   {
     "id": "si89qx9",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Jonavos g. 38, 44263",
@@ -3123,6 +3346,7 @@
   },
   {
     "id": "si3yai",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, K. Baršausko g. 57, 51423",
@@ -3137,6 +3361,7 @@
   },
   {
     "id": "stbha9h",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, J. Basanavičiaus g. 63, 36204",
@@ -3151,6 +3376,7 @@
   },
   {
     "id": "sqzapcx",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Gedimino g. 42B, 82174",
@@ -3165,6 +3391,7 @@
   },
   {
     "id": "shv850i",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Talino g. 2B, 05200",
@@ -3179,6 +3406,7 @@
   },
   {
     "id": "shg4snn",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Rūtų g. 2B, 62119",
@@ -3193,6 +3421,7 @@
   },
   {
     "id": "shxurot",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Taikos pr. 52A, 51305",
@@ -3207,6 +3436,7 @@
   },
   {
     "id": "sd89sci",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Vilniaus g. 62, 76251",
@@ -3221,6 +3451,7 @@
   },
   {
     "id": "snluw7i",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Geležinio Vilko g. 24, 08412",
@@ -3235,6 +3466,7 @@
   },
   {
     "id": "sqki67v",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Varnių g. 46, 48403",
@@ -3249,6 +3481,7 @@
   },
   {
     "id": "sj0tpim",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Taikos pr. 112A, 93150",
@@ -3263,6 +3496,7 @@
   },
   {
     "id": "sbw6xvv",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Telšių r. sav.",
     "address": "Telšiai, Luokės g. 70, 87128",
@@ -3277,6 +3511,7 @@
   },
   {
     "id": "ss75h4s",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Prūsų g. 26A, 02154",
@@ -3291,6 +3526,7 @@
   },
   {
     "id": "sdlsz5k",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Savanorių pr. 321, 50120",
@@ -3305,6 +3541,7 @@
   },
   {
     "id": "sgehsfo",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Eišiškių pl. 11, 02184",
@@ -3319,6 +3556,7 @@
   },
   {
     "id": "s42e9cv",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Geležinio Vilko g. 2A, 03150",
@@ -3333,6 +3571,7 @@
   },
   {
     "id": "swfpigo",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Varėnos r. sav.",
     "address": "Varėna, Savanorių g. 5, 65186",
@@ -3347,6 +3586,7 @@
   },
   {
     "id": "svdw3yy",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Palangos m. sav.",
     "address": "Palanga, Kretingos g. 56, 00111",
@@ -3361,6 +3601,7 @@
   },
   {
     "id": "sj9cu8c",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Tvirtovės al. 33A, 50157",
@@ -3375,6 +3616,7 @@
   },
   {
     "id": "sae2toy",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Biržų r. sav.",
     "address": "Biržai, Kilučių g. 93, 41154",
@@ -3389,6 +3631,7 @@
   },
   {
     "id": "sq0mx93",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Rokiškio r. sav.",
     "address": "Rokiškis, Respublikos g. 111A, 42135",
@@ -3403,6 +3646,7 @@
   },
   {
     "id": "syer3of",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Šiaulių r. sav.",
     "address": "Kuršėnai, Plento g. 1, 81115",
@@ -3417,6 +3661,7 @@
   },
   {
     "id": "s6dor4a",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Briedžių takas 6B, 49106",
@@ -3431,6 +3676,7 @@
   },
   {
     "id": "s1nitw2",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Islandijos pl. 61C, 49117",
@@ -3445,6 +3691,7 @@
   },
   {
     "id": "sluqu30",
+    "company": "Circle K Lietuva",
     "brand": "Circle K",
     "city": "Kretingos r. sav.",
     "address": "Kretinga, Klaipėdos g. 155, 97156",
@@ -3459,6 +3706,7 @@
   },
   {
     "id": "sl9axqg",
+    "company": "Degta",
     "brand": "Degta",
     "city": "Anykščių r. sav.",
     "address": "Anykščiai, Vienuolio g. 34A, 29148",
@@ -3473,6 +3721,7 @@
   },
   {
     "id": "ske6w8d",
+    "company": "Degta",
     "brand": "Degta",
     "city": "Rokiškio r. sav.",
     "address": "Rokiškis, Respublikos g. 113B, 42150",
@@ -3487,6 +3736,7 @@
   },
   {
     "id": "smnb6gt",
+    "company": "Degta",
     "brand": "Degta",
     "city": "Elektrėnų sav.",
     "address": "Vievis, Kauno g. 55A, 21371",
@@ -3501,6 +3751,7 @@
   },
   {
     "id": "scmanly",
+    "company": "Deliuvis",
     "brand": "Deliuvis",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, G. Petkevičaitės-Bitės g. 35C, 37138",
@@ -3515,6 +3766,7 @@
   },
   {
     "id": "sxvcv6k",
+    "company": "Deliuvis",
     "brand": "Deliuvis",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Pušaloto g. 140, 35100",
@@ -3529,6 +3781,7 @@
   },
   {
     "id": "s165pfw",
+    "company": "Deliuvis",
     "brand": "Deliuvis",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, S. Kerbedžio g. 2, 35135",
@@ -3543,6 +3796,7 @@
   },
   {
     "id": "sgjeck9",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Marijampolės sav.",
     "address": "Marijampolė, Stoties g. 6B, 68110",
@@ -3557,6 +3811,7 @@
   },
   {
     "id": "ssvwius",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Kareivių g. 4, 09109",
@@ -3571,6 +3826,7 @@
   },
   {
     "id": "sobf5pb",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Draugystės g. 8B, 51262",
@@ -3585,6 +3841,7 @@
   },
   {
     "id": "ssew9i6",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Alytaus m. sav.",
     "address": "Alytus, Ūdrijos g. 2, 62402",
@@ -3599,6 +3856,7 @@
   },
   {
     "id": "s4i1oix",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kaišiadorių r. sav.",
     "address": "Kaišiadorys, Paukštininkų g. 4a, 56160",
@@ -3613,6 +3871,7 @@
   },
   {
     "id": "s3k5jk5",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Radviliškio r. sav.",
     "address": "Radviliškis, Miško g. 62, 77158",
@@ -3627,6 +3886,7 @@
   },
   {
     "id": "sgf0wn1",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Trakų r. sav.",
     "address": "Lentvaris, Sodų g. 3, 25117",
@@ -3641,6 +3901,7 @@
   },
   {
     "id": "snigzhe",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus r. sav.",
     "address": "Bukiškis, Ukmergės g. 437, 14183",
@@ -3655,6 +3916,7 @@
   },
   {
     "id": "s8vg703",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus r. sav.",
     "address": "Maišiagala, Mokyklos g. 26, 14243",
@@ -3669,6 +3931,7 @@
   },
   {
     "id": "svtunpb",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Gunkliškių g. 2F, 02231",
@@ -3683,6 +3946,7 @@
   },
   {
     "id": "sxbzuxz",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Kirtimų g. 33, 02300",
@@ -3697,6 +3961,7 @@
   },
   {
     "id": "sut3qro",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Pajautos g. 31, 06200",
@@ -3711,6 +3976,7 @@
   },
   {
     "id": "sdpwtfq",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Liepkalnio g. 112A, 02121",
@@ -3725,6 +3991,7 @@
   },
   {
     "id": "sglgh84",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Savanorių pr. 225, 02300",
@@ -3739,6 +4006,7 @@
   },
   {
     "id": "sihtkxl",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Spyglių g. 2, 27101",
@@ -3753,6 +4021,7 @@
   },
   {
     "id": "s927ggj",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Jeruzalės g. 2, 08414",
@@ -3767,6 +4036,7 @@
   },
   {
     "id": "sicpqfx",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilniaus m. sav.",
     "address": "Vilnius, Laisvės pr. 80B, 06125",
@@ -3781,6 +4051,7 @@
   },
   {
     "id": "s11ofq0",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Vilkaviškio r. sav.",
     "address": "Vilkaviškis, S. Nėries g. 38, 70165",
@@ -3795,6 +4066,7 @@
   },
   {
     "id": "sfp7ehx",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Šilutės r. sav.",
     "address": "Šilutė, Gluosnių g. 4A, 99116",
@@ -3809,6 +4081,7 @@
   },
   {
     "id": "s99604a",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Šiaulių m. sav.",
     "address": "Šiauliai, Sembos g. 5, 78347",
@@ -3823,6 +4096,7 @@
   },
   {
     "id": "sgr4hzq",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Raseinių r. sav.",
     "address": "Ariogala, Žemaičių g. 30, 60255",
@@ -3837,6 +4111,7 @@
   },
   {
     "id": "sqpylyf",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Pasvalio r. sav.",
     "address": "Pasvalys, Taikos g. 24, 39132",
@@ -3851,6 +4126,7 @@
   },
   {
     "id": "sp8g0g6",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Panevėžio r. sav.",
     "address": "Panevėžys, Ramygalos g. 186A, 36224",
@@ -3865,6 +4141,7 @@
   },
   {
     "id": "st8q863",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Panevėžio m. sav.",
     "address": "Panevėžys, Nemuno g. 79A, 35189",
@@ -3879,6 +4156,7 @@
   },
   {
     "id": "s1bk7vv",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Minijos g. 154A, 93263",
@@ -3893,6 +4171,7 @@
   },
   {
     "id": "ssezofu",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Klaipėdos m. sav.",
     "address": "Klaipėda, Taikos pr. 124, 94286",
@@ -3907,6 +4186,7 @@
   },
   {
     "id": "s8u73w6",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kėdainių r. sav.",
     "address": "Juodgirio k. 1, 58212",
@@ -3921,6 +4201,7 @@
   },
   {
     "id": "skmmood",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno r. sav.",
     "address": "Kaunas, Vandžiogalos pl. 86A, 47478",
@@ -3935,6 +4216,7 @@
   },
   {
     "id": "slm94ge",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Jonavos g. 292B, 44131",
@@ -3949,6 +4231,7 @@
   },
   {
     "id": "sujba3l",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, T. Masiulio g. 16A, 52375",
@@ -3963,6 +4246,7 @@
   },
   {
     "id": "son3bb1",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Armoniškių g. 31, 46401",
@@ -3977,6 +4261,7 @@
   },
   {
     "id": "srapol5",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Palemono g. 3A, 52159",
@@ -3991,6 +4276,7 @@
   },
   {
     "id": "s7c3e86",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Kauno m. sav.",
     "address": "Kaunas, Ateities pl. 40B, 52112",
@@ -4005,6 +4291,7 @@
   },
   {
     "id": "sx7e2sj",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Jonavos r. sav.",
     "address": "Jonava, Vasario 16-osios g. 70, 55165",
@@ -4019,6 +4306,7 @@
   },
   {
     "id": "sbzt1a",
+    "company": "Emsi",
     "brand": "Emsi",
     "city": "Biržų r. sav.",
     "address": "Biržai, Jaunimo g. 2a, 41168",

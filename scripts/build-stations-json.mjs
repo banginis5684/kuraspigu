@@ -27,6 +27,10 @@ function parsePrice(value) {
   return null;
 }
 
+function normalizeCompanyName(raw) {
+  return raw.replace(/^(UAB|AB|VĮ|I\.?Į\.?|IĮ)\s+/i, "").trim();
+}
+
 function stableId(company, address) {
   const s = `${company}|${address}`;
   let hash = 0;
@@ -66,6 +70,7 @@ for (const row of rows) {
 
   stations.push({
     id: stableId(company, address),
+    company: normalizeCompanyName(company),
     brand,
     city,
     address,
