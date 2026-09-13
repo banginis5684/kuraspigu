@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
+import { SecondaryNav } from "@/components/SecondaryNav";
 import { Footer } from "@/components/Footer";
 import { CookieConsent } from "@/components/CookieConsent";
 import { WelcomePopup } from "@/components/WelcomePopup";
@@ -38,6 +39,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col">
         <AuthProvider>
           <Header />
+          <SecondaryNav />
           <main className="flex-1">{children}</main>
           <Footer />
           <WelcomePopup />
