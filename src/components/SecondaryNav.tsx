@@ -15,7 +15,10 @@ const LINKS = [
 
 export function SecondaryNav() {
   return (
-    <nav className="w-full overflow-x-auto bg-foreground" aria-label="Papildoma navigacija">
+    <nav
+      className="sticky top-20 z-30 w-full overflow-x-auto bg-black"
+      aria-label="Papildoma navigacija"
+    >
       <div className="mx-auto flex max-w-6xl items-center gap-6 whitespace-nowrap px-4 py-2.5 sm:px-6">
         {LINKS.map((link) => (
           <Link
