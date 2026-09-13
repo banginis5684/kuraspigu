@@ -2,22 +2,11 @@
 
 import { useMemo, useState } from "react";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
-import L from "leaflet";
 import { FUEL_TYPES, STATIONS, formatPrice } from "@/lib/data";
+import { priceIcon } from "@/lib/map-icons";
 import type { FuelType } from "@/lib/types";
 
 const LITHUANIA_CENTER: [number, number] = [55.1694, 23.8813];
-
-function priceIcon(price: number, isCheapest: boolean) {
-  const bg = isCheapest ? "#f2b705" : "#111111";
-  const color = isCheapest ? "#111111" : "#ffffff";
-  return L.divIcon({
-    className: "",
-    html: `<div style="background:${bg};color:${color};border-radius:9999px;padding:3px 8px;font-size:11px;font-weight:700;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,0.35);font-family:inherit;">${price.toFixed(3)} €</div>`,
-    iconSize: [60, 22],
-    iconAnchor: [30, 28],
-  });
-}
 
 export default function StationMap() {
   const [fuel, setFuel] = useState<FuelType>("a95");

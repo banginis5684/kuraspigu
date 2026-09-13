@@ -11,6 +11,7 @@ import { supabase } from "@/lib/supabase";
 const NAV_LINKS = [
   { href: "/", label: "Pagrindinis" },
   { href: "/kainos", label: "Kainos" },
+  { href: "/zemelapis", label: "Žemėlapis" },
   { href: "/apie-mus", label: "Apie mus" },
   { href: "/kontaktai", label: "Kontaktai" },
 ];

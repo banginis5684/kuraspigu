@@ -26,3 +26,21 @@ export function formatPrice(value: number | undefined | null): string {
   if (value == null) return "—";
   return `${value.toFixed(3)} €`;
 }
+
+export const COMPANIES_COUNT = new Set(STATIONS.map((s) => s.brand)).size;
+
+export const LAST_UPDATED: string | null = STATIONS.reduce<string | null>(
+  (latest, s) => (!latest || s.updatedAt > latest ? s.updatedAt : latest),
+  null
+);
+
+export function priceRange(fuel: FuelType) {
+  const values = STATIONS.map((s) => s.prices[fuel]).filter(
+    (v): v is number => v != null
+  );
+  if (values.length === 0) return null;
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const avg = values.reduce((sum, v) => sum + v, 0) / values.length;
+  return { min, max, avg };
+}
