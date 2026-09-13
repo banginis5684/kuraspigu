@@ -42,9 +42,9 @@ function Hero() {
             </span>
           </h1>
           <p className="mt-6 text-lg text-subtle">
-            KuraSpigu.lt kasdien renka ir lygina A95, A98, dyzelino ir dujų
-            kainas Vilniuje, Kaune, Klaipėdoje ir kituose miestuose — kad
-            sumokėtumėte mažiau kiekvieną kartą užsukę į degalinę.
+            KuraSpigu.lt renka ir lygina A95, dyzelino ir dujų (SND) kainas
+            visose Lietuvos savivaldybėse — kad sumokėtumėte mažiau
+            kiekvieną kartą užsukę į degalinę.
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
@@ -69,7 +69,7 @@ function Hero() {
 function Stats() {
   const items = [
     { value: `${STATIONS.length}+`, label: "degalinių sekamos" },
-    { value: `${CITIES.length}`, label: "didieji miestai" },
+    { value: `${CITIES.length}`, label: "savivaldybės" },
     { value: `${FUEL_TYPES.length}`, label: "degalų rūšys" },
     { value: "24/7", label: "atnaujinama" },
   ];
@@ -154,7 +154,7 @@ function HowItWorks() {
     {
       n: "02",
       title: "Palygink kainas",
-      body: "Peržiūrėk visų degalinių A95, A98, dyzelino ir dujų kainas viename puslapyje.",
+      body: "Peržiūrėk visų degalinių A95, dyzelino ir dujų (SND) kainas viename puslapyje.",
     },
     {
       n: "03",

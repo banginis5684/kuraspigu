@@ -24,17 +24,18 @@ export default function ApieMusPage() {
           <h2 className="text-xl font-semibold">Mūsų tikslas</h2>
           <p className="mt-2 text-subtle">
             Padėti Lietuvos vairuotojams greitai ir aiškiai palyginti A95,
-            A98, dyzelino ir dujų kainas didžiuosiuose miestuose — be
+            dyzelino ir dujų (SND) kainas visose savivaldybėse — be
             reikalo neapsilankant kiekvienoje degalinėje.
           </p>
         </div>
         <div>
           <h2 className="text-xl font-semibold">Kaip renkame duomenis</h2>
           <p className="mt-2 text-subtle">
-            Siekiame rodyti kuo tikslesnę ir šviežiausią informaciją.
-            Šiuo metu svetainėje rodomi pavyzdiniai duomenys, o gyva
-            duomenų integracija su degalinių tinklais bus paleista
-            artimiausiu metu.
+            Kainos remiasi Lietuvos energetikos agentūros (LEA) skelbiamais
+            duomenimis, kuriuos degalinės privalo pateikti kiekvieną darbo
+            dieną. Šiuo metu duomenys atnaujinami periodiškai, ne realiu
+            laiku — dirbame, kad atnaujinimai vyktų automatiškai ir
+            dažniau.
           </p>
         </div>
         <div>

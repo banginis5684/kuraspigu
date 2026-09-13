@@ -51,7 +51,7 @@ export function Footer() {
 
         <div className="mt-10 flex flex-col gap-2 border-t border-border pt-6 text-xs text-subtle sm:flex-row sm:items-center sm:justify-between">
           <p>© {new Date().getFullYear()} KuraSpigu.lt. Visos teisės saugomos.</p>
-          <p>Kainos pateikiamos kaip pavyzdys ir gali skirtis nuo realių.</p>
+          <p>Kainų šaltinis — LEA. Degalinių vietos žemėlapyje nustatytos automatiškai ir gali būti netikslios.</p>
         </div>
       </div>
     </footer>

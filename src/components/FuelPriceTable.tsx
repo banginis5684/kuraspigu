@@ -4,11 +4,13 @@ import { useMemo, useState } from "react";
 import { CITIES, FUEL_TYPES, STATIONS, formatPrice } from "@/lib/data";
 import type { FuelType } from "@/lib/types";
 
-const ALL_CITIES = "Visi miestai";
+const ALL_CITIES = "Visos savivaldybės";
+const PAGE_SIZE = 100;
 
 export function FuelPriceTable() {
   const [city, setCity] = useState<string>(ALL_CITIES);
   const [sortFuel, setSortFuel] = useState<FuelType>("a95");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const rows = useMemo(() => {
     const filtered = STATIONS.filter(
@@ -25,23 +27,31 @@ export function FuelPriceTable() {
   }, [city, sortFuel]);
 
   const cheapestId = rows.find((r) => r.prices[sortFuel] != null)?.id;
+  const visibleRows = rows.slice(0, visibleCount);
+
+  function handleCityChange(value: string) {
+    setCity(value);
+    setVisibleCount(PAGE_SIZE);
+  }
 
   return (
     <div>
       <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <div className="flex flex-wrap gap-2">
-          <FilterButton
-            active={city === ALL_CITIES}
-            onClick={() => setCity(ALL_CITIES)}
+        <label className="flex items-center gap-2 text-sm text-subtle">
+          Savivaldybė
+          <select
+            value={city}
+            onChange={(e) => handleCityChange(e.target.value)}
+            className="max-w-[220px] rounded-lg border border-border bg-background px-3 py-1.5 text-sm font-medium text-foreground"
           >
-            {ALL_CITIES}
-          </FilterButton>
-          {CITIES.map((c) => (
-            <FilterButton key={c} active={city === c} onClick={() => setCity(c)}>
-              {c}
-            </FilterButton>
-          ))}
-        </div>
+            <option value={ALL_CITIES}>{ALL_CITIES}</option>
+            {CITIES.map((c) => (
+              <option key={c} value={c}>
+                {c}
+              </option>
+            ))}
+          </select>
+        </label>
 
         <label className="flex items-center gap-2 text-sm text-subtle">
           Rūšiuoti pagal
@@ -59,12 +69,16 @@ export function FuelPriceTable() {
         </label>
       </div>
 
+      <p className="mb-3 text-sm text-subtle">
+        Rodoma {visibleRows.length} iš {rows.length} degalinių.
+      </p>
+
       <div className="overflow-x-auto rounded-2xl border border-border">
         <table className="w-full min-w-[640px] border-collapse text-sm">
           <thead>
             <tr className="border-b border-border bg-muted text-left text-xs font-semibold uppercase tracking-wide text-subtle">
               <th className="px-4 py-3">Degalinė</th>
-              <th className="px-4 py-3">Miestas / adresas</th>
+              <th className="px-4 py-3">Savivaldybė / adresas</th>
               {FUEL_TYPES.map((f) => (
                 <th key={f.id} className="px-4 py-3 text-right">
                   {f.shortLabel}
@@ -73,7 +87,7 @@ export function FuelPriceTable() {
             </tr>
           </thead>
           <tbody>
-            {rows.map((station) => (
+            {visibleRows.map((station) => (
               <tr
                 key={station.id}
                 className={`border-b border-border last:border-0 ${
@@ -106,37 +120,23 @@ export function FuelPriceTable() {
             {rows.length === 0 && (
               <tr>
                 <td colSpan={2 + FUEL_TYPES.length} className="px-4 py-8 text-center text-subtle">
-                  Šiam miestui degalinių nerasta.
+                  Šiai savivaldybei degalinių nerasta.
                 </td>
               </tr>
             )}
           </tbody>
         </table>
       </div>
-    </div>
-  );
-}
 
-function FilterButton({
-  active,
-  onClick,
-  children,
-}: {
-  active: boolean;
-  onClick: () => void;
-  children: React.ReactNode;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      className={`rounded-full border px-4 py-1.5 text-sm font-medium transition-colors ${
-        active
-          ? "border-foreground bg-foreground text-background"
-          : "border-border text-foreground hover:bg-muted"
-      }`}
-    >
-      {children}
-    </button>
+      {visibleCount < rows.length && (
+        <button
+          type="button"
+          onClick={() => setVisibleCount((v) => v + PAGE_SIZE)}
+          className="mt-6 w-full rounded-xl border border-border py-2.5 text-sm font-semibold text-foreground transition-colors hover:bg-muted"
+        >
+          Rodyti daugiau
+        </button>
+      )}
+    </div>
   );
 }

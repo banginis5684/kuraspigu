@@ -1,4 +1,4 @@
-export type FuelType = "a95" | "a98" | "diesel" | "lpg";
+export type FuelType = "a95" | "diesel" | "lpg";
 
 export interface FuelTypeInfo {
   id: FuelType;

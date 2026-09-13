@@ -1,0 +1,2998 @@
+[
+  {
+    "id": "syuly4q",
+    "brand": "Utentra",
+    "city": "Utenos r. sav.",
+    "address": "Utena, Pramonės g. 16, 28119",
+    "lat": 55.4946795,
+    "lng": 25.6458529,
+    "prices": {
+      "a95": null,
+      "diesel": 2.089,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "schl4ac",
+    "brand": "Stateta",
+    "city": "Prienų r. sav.",
+    "address": "Gustaičių k., 59296",
+    "lat": 54.5030384,
+    "lng": 23.3751337,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8ib06v",
+    "brand": "Stateta",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Ukmergės g. 246, 06120",
+    "lat": 54.7231463,
+    "lng": 25.2410592,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "swzhzrm",
+    "brand": "Stateta",
+    "city": "Utenos r. sav.",
+    "address": "Utena, Palangos g. 66, 28140",
+    "lat": 55.4985476,
+    "lng": 25.5839697,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "supa4gn",
+    "brand": "Stateta",
+    "city": "Marijampolės sav.",
+    "address": "Kantališkių k., 69841",
+    "lat": 54.8881365,
+    "lng": 23.7869836,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s4hyvvu",
+    "brand": "Stateta",
+    "city": "Kupiškio r. sav.",
+    "address": "Kupiškis, Panevėžio g. 9, 40134",
+    "lat": 55.8260509,
+    "lng": 24.9799373,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "spy5504",
+    "brand": "Stateta",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Minijos g. 90, 93239",
+    "lat": 55.6864932,
+    "lng": 21.145677,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sdfqiyy",
+    "brand": "Stateta",
+    "city": "Kalvarijos sav.",
+    "address": "Kreivukė, Turgaus g. 4, 69232",
+    "lat": 54.4108297,
+    "lng": 23.2069152,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfgt9oy",
+    "brand": "Stateta",
+    "city": "Alytaus r. sav.",
+    "address": "Alytaus k., 64464",
+    "lat": 55.7319393,
+    "lng": 21.1423197,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6tei1m",
+    "brand": "Stateta",
+    "city": "Alytaus r. sav.",
+    "address": "Kaniūkų k., 64104",
+    "lat": 54.9188123,
+    "lng": 23.8325537,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sc78kep",
+    "brand": "Stateta",
+    "city": "Alytaus r. sav.",
+    "address": "Miklusėnai, Kauno g. 1, 62461",
+    "lat": 54.428042,
+    "lng": 24.0013991,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": 0.759
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sd5txke",
+    "brand": "Stateta",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Santaikos g. 28 B, 62123",
+    "lat": 54.38752,
+    "lng": 24.0318663,
+    "prices": {
+      "a95": 1.797,
+      "diesel": 2.097,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfea35f",
+    "brand": "Junasa",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Bačiūnų g. 12a, 77109",
+    "lat": 55.8979296,
+    "lng": 23.3517196,
+    "prices": {
+      "a95": 1.899,
+      "diesel": 2.099,
+      "lpg": 0.69
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "swohlyz",
+    "brand": "Junasa",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Žemaitės g. 131c, 76175",
+    "lat": 55.9481053,
+    "lng": 23.3204268,
+    "prices": {
+      "a95": 1.899,
+      "diesel": 2.099,
+      "lpg": 0.69
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s9n7wlw",
+    "brand": "Junasa",
+    "city": "Šiaulių r. sav.",
+    "address": "Gruzdžiai, M. Katiliškio g. 50, 81428",
+    "lat": 56.0992272,
+    "lng": 23.2658189,
+    "prices": {
+      "a95": 1.899,
+      "diesel": 2.099,
+      "lpg": 0.69
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "spdw79r",
+    "brand": "Saurida",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, Statybininkų g. 8, 68108",
+    "lat": 54.5778933,
+    "lng": 23.3769145,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.12,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxigfg9",
+    "brand": "Trevena",
+    "city": "Klaipėdos r. sav.",
+    "address": "Gargždai, Klaipėdos g. 39, 96157",
+    "lat": 55.7122819,
+    "lng": 21.3816268,
+    "prices": {
+      "a95": 1.84,
+      "diesel": 2.12,
+      "lpg": 0.74
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sp5iosr",
+    "brand": "Trevena",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Kretingos g. 28A, 92211",
+    "lat": 55.7283977,
+    "lng": 21.1325842,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.13,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sa2yprw",
+    "brand": "Trevena",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Minijos g. 152A, 93263",
+    "lat": 55.6696562,
+    "lng": 21.1586131,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.13,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq7pac4",
+    "brand": "Saurida",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Pramonės g. 5, 62323",
+    "lat": 54.4235268,
+    "lng": 24.0203936,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.14,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sx4p3eo",
+    "brand": "Saurida",
+    "city": "Prienų r. sav.",
+    "address": "Mauručiai, Liepų g. 20, 59290",
+    "lat": 54.771033,
+    "lng": 23.7654659,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.14,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgzrosg",
+    "brand": "Saurida",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Miškininkų g. 7, 62201",
+    "lat": 54.4113056,
+    "lng": 24.0676501,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.14,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "st0ok3a",
+    "brand": "Saurida",
+    "city": "Lazdijų r. sav.",
+    "address": "Panarvės k., 67168",
+    "lat": 54.2507018,
+    "lng": 23.5468307,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.14,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1gsdj2",
+    "brand": "Saurida",
+    "city": "Jurbarko r. sav.",
+    "address": "Pašvenčio k., 74218",
+    "lat": 55.0839161,
+    "lng": 22.6069418,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.14,
+      "lpg": 0.76
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgrfyjs",
+    "brand": "Saurida",
+    "city": "Kauno m. sav.",
+    "address": "Neveronių k., Martinavos g. 1, 54475",
+    "lat": 54.8986536,
+    "lng": 23.9071189,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.14,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sjwnspb",
+    "brand": "Bonsa",
+    "city": "Tauragės r. sav.",
+    "address": "Vaidatonių k. 1, 73406",
+    "lat": 55.4812844,
+    "lng": 22.6579734,
+    "prices": {
+      "a95": 1.91,
+      "diesel": 2.15,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "scp8dhv",
+    "brand": "Saurida",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Gedimino g. 50C, 82482",
+    "lat": 55.8146018,
+    "lng": 23.553195,
+    "prices": {
+      "a95": 1.9,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s19lrl9",
+    "brand": "Saurida",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Vilniaus g. 373A, 76326",
+    "lat": 55.9428191,
+    "lng": 23.2816193,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s49eo0u",
+    "brand": "Saurida",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Jankiškių g. 43a, 02300",
+    "lat": 54.6518904,
+    "lng": 25.1856677,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "skgpt5g",
+    "brand": "Saurida",
+    "city": "Visagino sav.",
+    "address": "Visaginas, Kosmoso g. 1, 31142",
+    "lat": 55.5974245,
+    "lng": 26.403381,
+    "prices": {
+      "a95": 1.9,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "suhw0vd",
+    "brand": "Saurida",
+    "city": "Kauno r. sav.",
+    "address": "Babtai, Vandžiogalos g. 3, 54328",
+    "lat": 55.0969665,
+    "lng": 23.8062494,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shq7lrz",
+    "brand": "Saurida",
+    "city": "Klaipėdos r. sav.",
+    "address": "Klaipėda, Jūrininkų pr. 29, 95225",
+    "lat": 55.6568391,
+    "lng": 21.1838207,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.15,
+      "lpg": 0.76
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6v00yf",
+    "brand": "Saurida",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Pramonės g. 7C, 78140",
+    "lat": 55.9164656,
+    "lng": 23.3019411,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sutapx8",
+    "brand": "Saurida",
+    "city": "Vilniaus r. sav.",
+    "address": "Zujūnai, Buivydiškių g. 1A, 14160",
+    "lat": 54.7248417,
+    "lng": 25.1859785,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sva4k35",
+    "brand": "Saurida",
+    "city": "Akmenės r. sav.",
+    "address": "Naujoji Akmenė,  V. Kudirkos g. 18A, 85171",
+    "lat": 56.3172286,
+    "lng": 22.8848468,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s16y026",
+    "brand": "Saurida",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Garažų g. 20, 50314",
+    "lat": 54.9236841,
+    "lng": 24.0008424,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.15,
+      "lpg": 0.76
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ss3p0z5",
+    "brand": "Saurida",
+    "city": "Kauno r. sav.",
+    "address": "Domeikava, Muitinės g. 2, 54359",
+    "lat": 54.9563771,
+    "lng": 23.9051117,
+    "prices": {
+      "a95": 1.9,
+      "diesel": 2.15,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s7a1p6y",
+    "brand": "Saurida",
+    "city": "Vilniaus r. sav.",
+    "address": "Čekoniškių k., 14207",
+    "lat": 54.7106736,
+    "lng": 25.1564879,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sn457f1",
+    "brand": "Tripletas",
+    "city": "Mažeikių r. sav.",
+    "address": "Mažeikiai, Sedos g. 16, 89233",
+    "lat": 56.3052828,
+    "lng": 22.3424876,
+    "prices": {
+      "a95": 1.88,
+      "diesel": 2.15,
+      "lpg": 0.74
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shjurzt",
+    "brand": "UAB GINDANA degalai laivams",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Priešpilio g. 5, 91240",
+    "lat": 55.7041452,
+    "lng": 21.129605,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.15,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s3f1f22",
+    "brand": "VIRŠI Lietuva",
+    "city": "Marijampolės sav.",
+    "address": "Pasūduonės k., L.Taunio g. 3, 69331",
+    "lat": 54.5711728,
+    "lng": 23.3385123,
+    "prices": {
+      "a95": 1.914,
+      "diesel": 2.154,
+      "lpg": 0.924
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sf8uhpk",
+    "brand": "Regusa",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Marijampolės pl. 20, 46147",
+    "lat": 54.8502039,
+    "lng": 23.9657416,
+    "prices": {
+      "a95": 1.87,
+      "diesel": 2.16,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sj1blub",
+    "brand": "Regusa",
+    "city": "Marijampolės sav.",
+    "address": "Gavaltuvos k., Sodo g. 11, 69370",
+    "lat": 54.5711728,
+    "lng": 23.3385123,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.16,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6tf8gh",
+    "brand": "Saurida",
+    "city": "Kaišiadorių r. sav.",
+    "address": "Rumšiškės, Lekavičiaus g. 71, 56337",
+    "lat": 54.87185,
+    "lng": 24.2132026,
+    "prices": {
+      "a95": 1.92,
+      "diesel": 2.16,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sb7r3si",
+    "brand": "Tomega",
+    "city": "Druskininkų sav.",
+    "address": "Druskininkai, Gardino g. 98, 66225",
+    "lat": 53.9902106,
+    "lng": 24.0056773,
+    "prices": {
+      "a95": 1.9,
+      "diesel": 2.16,
+      "lpg": 0.82
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sacn7pa",
+    "brand": "Saurida",
+    "city": "Ukmergės r. sav.",
+    "address": "Ukmergė, Kareivinių g. 64, 20184",
+    "lat": 55.2589928,
+    "lng": 24.7903869,
+    "prices": {
+      "a95": 1.94,
+      "diesel": 2.17,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s12udr",
+    "brand": "Saurida",
+    "city": "Ukmergės r. sav.",
+    "address": "Ukmergė, Vilniaus g. 122, 20168",
+    "lat": 55.2335275,
+    "lng": 24.7812525,
+    "prices": {
+      "a95": 1.94,
+      "diesel": 2.17,
+      "lpg": 0.77
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s835m5m",
+    "brand": "Saurida",
+    "city": "Šilalės r. sav.",
+    "address": "Šilalė, Rytinio kelio g. 19, 75133",
+    "lat": 55.4918497,
+    "lng": 22.1992774,
+    "prices": {
+      "a95": 1.9,
+      "diesel": 2.17,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smnrcn4",
+    "brand": "Trevena",
+    "city": "Klaipėdos r. sav.",
+    "address": "Gargždai, Kretingos pl. 1, 96105",
+    "lat": 55.7213423,
+    "lng": 21.3854871,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.17,
+      "lpg": 0.78
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smnpbk",
+    "brand": "Bonsa",
+    "city": "Tauragės r. sav.",
+    "address": "Taurai, Tilžės pl. 46, 72142",
+    "lat": 55.2423921,
+    "lng": 22.2496937,
+    "prices": {
+      "a95": 1.929,
+      "diesel": 2.179,
+      "lpg": 0.68
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s65gxp2",
+    "brand": "Gelvybė",
+    "city": "Kėdainių r. sav.",
+    "address": "Aristava, Aristavos g. 4, 58111",
+    "lat": 55.2971374,
+    "lng": 24.0769203,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.769
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sw1ql9j",
+    "brand": "Gelvybė",
+    "city": "Šakių r. sav.",
+    "address": "Girėnai, Kauno g. 50, 71129",
+    "lat": 54.9527529,
+    "lng": 23.0802937,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sbvhjyr",
+    "brand": "Gelvybė",
+    "city": "Šakių r. sav.",
+    "address": "Šakiai, V. Kudirkos g. 11D, 71124",
+    "lat": 54.9541387,
+    "lng": 23.0246372,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sveu5ls",
+    "brand": "Gelvybė",
+    "city": "Jurbarko r. sav.",
+    "address": "Jurbarkas, Knygnešių g. 9, 74212",
+    "lat": 55.0854928,
+    "lng": 22.7455381,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sanfvin",
+    "brand": "Gelvybė",
+    "city": "Jurbarko r. sav.",
+    "address": "Jurbarkas, Muitinės g. 32, 74111",
+    "lat": 55.0771975,
+    "lng": 22.7510003,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sujooyt",
+    "brand": "Gelvybė",
+    "city": "Jurbarko r. sav.",
+    "address": "Jurbarkas, S. Daukanto g. 66, 74170",
+    "lat": 55.0825123,
+    "lng": 22.7888833,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s9bgb3f",
+    "brand": "Gelvybė",
+    "city": "Šakių r. sav.",
+    "address": "Kiduliai, Sūduvos g. 3, 71400",
+    "lat": 55.0638386,
+    "lng": 22.7807167,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": 0.73
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfybk5",
+    "brand": "Gelvybė",
+    "city": "Jurbarko r. sav.",
+    "address": "Seredžius, S. Šimkaus g. 69, 74425",
+    "lat": 55.0789086,
+    "lng": 23.3969234,
+    "prices": {
+      "a95": 1.959,
+      "diesel": 2.179,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sns6nlh",
+    "brand": "Velseka",
+    "city": "Kupiškio r. sav.",
+    "address": "Kupiškis, Panevėžio g. 5, 40134",
+    "lat": 55.8271711,
+    "lng": 24.985997,
+    "prices": {
+      "a95": 1.859,
+      "diesel": 2.179,
+      "lpg": 0.729
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfe65rf",
+    "brand": "Regusa",
+    "city": "Kazlų Rūdos sav.",
+    "address": "Kazlų Rūda, S. Daukanto g. 19D, 69430",
+    "lat": 54.7392942,
+    "lng": 23.4962233,
+    "prices": {
+      "a95": 1.94,
+      "diesel": 2.18,
+      "lpg": 0.79
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s3oc1cl",
+    "brand": "Saurida",
+    "city": "Skuodo r. sav.",
+    "address": "Skuodas, Vytauto g. 20, 98123",
+    "lat": 56.2613884,
+    "lng": 21.5299065,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.18,
+      "lpg": 0.76
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s3tqitl",
+    "brand": "Atsiauta",
+    "city": "Šiaulių r. sav.",
+    "address": "Kuršėnai, Vytauto g. 80, 81146",
+    "lat": 56.0147959,
+    "lng": 22.9514104,
+    "prices": {
+      "a95": 1.89,
+      "diesel": 2.19,
+      "lpg": 0.79
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8sjkyx",
+    "brand": "Bemija",
+    "city": "Ukmergės r. sav.",
+    "address": "Ukmergė, Dariaus ir Girėno g. 31, 20154",
+    "lat": 55.2405433,
+    "lng": 24.7875661,
+    "prices": {
+      "a95": 1.93,
+      "diesel": 2.19,
+      "lpg": 0.76
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sp1czru",
+    "brand": "Leosta",
+    "city": "Telšių r. sav.",
+    "address": "Luokė, Telšių g. 66, 88236",
+    "lat": 55.9013437,
+    "lng": 22.5062918,
+    "prices": {
+      "a95": 1.98,
+      "diesel": 2.19,
+      "lpg": 0.8
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1eypco",
+    "brand": "Regusa",
+    "city": "Vilkaviškio r. sav.",
+    "address": "Kybartai, J. Basanavičiaus g. 45A, 70417",
+    "lat": 54.6387352,
+    "lng": 22.7632799,
+    "prices": {
+      "a95": 1.98,
+      "diesel": 2.19,
+      "lpg": 0.79
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "san5b6n",
+    "brand": "Antivis",
+    "city": "Kelmės r. sav.",
+    "address": "Tytuvėnai, Žemaitės g. 14, 86490",
+    "lat": 55.5941513,
+    "lng": 23.1795143,
+    "prices": {
+      "a95": 1.98,
+      "diesel": 2.22,
+      "lpg": 0.83
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sb7yyve",
+    "brand": "Žibalas",
+    "city": "Jonavos r. sav.",
+    "address": "Jonava, Taurostos g. 16A, 55195",
+    "lat": 55.0733926,
+    "lng": 24.2937294,
+    "prices": {
+      "a95": 1.95,
+      "diesel": 2.23,
+      "lpg": 0.84
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stsd7e7",
+    "brand": "Prie Luksto",
+    "city": "Telšių r. sav.",
+    "address": "Telšiai, Masčio g. 21, 87139",
+    "lat": 55.9757001,
+    "lng": 22.2636566,
+    "prices": {
+      "a95": 1.955,
+      "diesel": 2.235,
+      "lpg": 0.809
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s4mbkmg",
+    "brand": "Tomega",
+    "city": "Šalčininkų r. sav.",
+    "address": "Tartoko k., 17127",
+    "lat": 54.4568792,
+    "lng": 25.2794664,
+    "prices": {
+      "a95": 1.999,
+      "diesel": 2.249,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sc50nop",
+    "brand": "Tumasa",
+    "city": "Mažeikių r. sav.",
+    "address": "Židikai, Mažeikių g. 10, 89442",
+    "lat": 56.3176397,
+    "lng": 22.0135973,
+    "prices": {
+      "a95": 1.95,
+      "diesel": 2.25,
+      "lpg": 0.94
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stsd83y",
+    "brand": "Tomega",
+    "city": "Šalčininkų r. sav.",
+    "address": "Dumblės k., 17178",
+    "lat": 55.9769954,
+    "lng": 25.8228915,
+    "prices": {
+      "a95": 2.009,
+      "diesel": 2.259,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "siqca7j",
+    "brand": "Trevena",
+    "city": "Kretingos r. sav.",
+    "address": "Kretinga, Vilniaus g. 29B, 97101",
+    "lat": 55.8969426,
+    "lng": 21.2443258,
+    "prices": {
+      "a95": 1.99,
+      "diesel": 2.26,
+      "lpg": 0.88
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "srgk12j",
+    "brand": "Trevena",
+    "city": "Kretingos r. sav.",
+    "address": "Darbėnai, Laisvės g. 15, 97264",
+    "lat": 56.0267748,
+    "lng": 21.2626243,
+    "prices": {
+      "a95": 1.99,
+      "diesel": 2.26,
+      "lpg": 0.88
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s7ijqxl",
+    "brand": "Plungės lagūna",
+    "city": "Rietavo sav.",
+    "address": "Rietavas, Plungės g. 32, 90313",
+    "lat": 55.7349772,
+    "lng": 21.9240716,
+    "prices": {
+      "a95": 2.017,
+      "diesel": 2.3,
+      "lpg": 0.847
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sw5li6h",
+    "brand": "Orlen",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Kauno g. 73, 62107",
+    "lat": 54.4033241,
+    "lng": 24.0370877,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sjaokg",
+    "brand": "Orlen",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Pramonės pr. 37, 51271",
+    "lat": 54.9158016,
+    "lng": 23.9842046,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sctgzk5",
+    "brand": "Orlen",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Varnių g. 50, 48401",
+    "lat": 54.9138013,
+    "lng": 23.9068499,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "se0ijxv",
+    "brand": "Orlen",
+    "city": "Marijampolės sav.",
+    "address": "Aleksandravo k., 68100",
+    "lat": 54.497918,
+    "lng": 24.077555,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sngagpy",
+    "brand": "Orlen",
+    "city": "Kauno r. sav.",
+    "address": "Biruliškių k., 54469",
+    "lat": 54.9243192,
+    "lng": 24.0113084,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s2iyspi",
+    "brand": "Orlen",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Veiverių g. 148B, 46392",
+    "lat": 54.8673208,
+    "lng": 23.8872771,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s7ynm6l",
+    "brand": "Orlen",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Kalvarijos g. 138, 46403",
+    "lat": 54.8555254,
+    "lng": 23.8510321,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "spqcmrh",
+    "brand": "Orlen",
+    "city": "Elektrėnų sav.",
+    "address": "Kakliniškių k., Žilvičių g. 1A, 26138",
+    "lat": 54.7863996,
+    "lng": 24.6655184,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s91u01a",
+    "brand": "Orlen",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Minijos g. 44, 91197",
+    "lat": 55.6938676,
+    "lng": 21.1402705,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq9rnfd",
+    "brand": "Orlen",
+    "city": "Mažeikių r. sav.",
+    "address": "Mažeikiai, Skuodo g. 14, 89100",
+    "lat": 56.3144551,
+    "lng": 22.3109727,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sk994cq",
+    "brand": "Orlen",
+    "city": "Mažeikių r. sav.",
+    "address": "Mažeikiai, Žemaitijos g. 42, 89239",
+    "lat": 56.3020426,
+    "lng": 22.3424737,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sszmesx",
+    "brand": "Orlen",
+    "city": "Tauragės r. sav.",
+    "address": "Tauragė, Gedimino g. 46, 72336",
+    "lat": 55.2442701,
+    "lng": 22.3038396,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "supdygo",
+    "brand": "Orlen",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Juodasis kl. 32, 11307",
+    "lat": 54.6733413,
+    "lng": 25.298752,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "srrih0",
+    "brand": "Orlen",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, O. Milašiaus g. 31, 10102",
+    "lat": 54.7280491,
+    "lng": 25.3270109,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sr8flmr",
+    "brand": "Orlen",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Ukmergės g. 319, 06305",
+    "lat": 54.7369256,
+    "lng": 25.2321131,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "scivf36",
+    "brand": "Orlen",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Žirmūnų g. 1T, 09239",
+    "lat": 54.6960068,
+    "lng": 25.3001004,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "swxgn2b",
+    "brand": "Orlen",
+    "city": "Telšių r. sav.",
+    "address": "Telšiai, Plungės g. 33 D, 87329",
+    "lat": 55.9792186,
+    "lng": 22.2266776,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smsd08g",
+    "brand": "Orlen",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Serbentų g. 82, 77126",
+    "lat": 55.9136088,
+    "lng": 23.3368761,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "svmqt3o",
+    "brand": "Orlen",
+    "city": "Panevėžio r. sav.",
+    "address": "Nausodė, Šiaulių g. 50, 38366",
+    "lat": 55.7338433,
+    "lng": 24.2635593,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ss6s4v",
+    "brand": "Orlen",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Klaipėdos g. 162 D, 37372",
+    "lat": 55.7317398,
+    "lng": 24.303173,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sw9sbgh",
+    "brand": "Orlen",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Senamiesčio g. 115, 35114",
+    "lat": 55.7481994,
+    "lng": 24.3908149,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssp1vcl",
+    "brand": "Orlen",
+    "city": "Kretingos r. sav.",
+    "address": "Vilimiškės k., 97220",
+    "lat": 55.898649,
+    "lng": 21.0868734,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s9io9qu",
+    "brand": "Orlen",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Šilutės pl. 94, 95264",
+    "lat": 55.6681613,
+    "lng": 21.2086486,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sx90lav",
+    "brand": "Orlen",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Šilutės pl. 26A, 91177",
+    "lat": 55.6985726,
+    "lng": 21.1673283,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sh1sjh4",
+    "brand": "I.Stonkuvienės prekybos įmonė",
+    "city": "Kretingos r. sav.",
+    "address": "Kartena, Kretingos g. 51, 97351",
+    "lat": 55.9169838,
+    "lng": 21.4675181,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1xrqbm",
+    "brand": "Joniškio rajono Skaistčio žemės ūkio bendrovė",
+    "city": "Joniškio r. sav.",
+    "address": "Skaistgirys, Liepų g. 22, 84380",
+    "lat": 56.3104942,
+    "lng": 23.3808325,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxpplrg",
+    "brand": "Tormenta",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Linkuvos g. 77, 48314",
+    "lat": 54.9142998,
+    "lng": 23.8877048,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "skc7wvr",
+    "brand": "S.Savicko įmonė",
+    "city": "Kėdainių r. sav.",
+    "address": "Kėdainiai, Šėtos g. 120, 58115",
+    "lat": 55.2972995,
+    "lng": 24.001282,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sjpn4ew",
+    "brand": "S.Savicko įmonė",
+    "city": "Kėdainių r. sav.",
+    "address": "Kėdainiai, Dariaus ir Girėno 23 A, 57149",
+    "lat": 55.3127081,
+    "lng": 23.9781131,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "suf0z1u",
+    "brand": "S.Savicko įmonė",
+    "city": "Kėdainių r. sav.",
+    "address": "Kėdainiai, Gedimino g. 50, 57309",
+    "lat": 55.2914813,
+    "lng": 23.96054,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s5awln7",
+    "brand": "Sigito Rimkevičiaus komercinė įmonė",
+    "city": "Joniškio r. sav.",
+    "address": "Joniškis, Turgaus g. 3, 84172",
+    "lat": 56.2289344,
+    "lng": 23.6100885,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "st8to5e",
+    "brand": "Sigito Rimkevičiaus komercinė įmonė",
+    "city": "Kėdainių r. sav.",
+    "address": "Pelėdnagiai, Miškininkų g. 14, 58163",
+    "lat": 55.2525072,
+    "lng": 23.9679701,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "szgtoci",
+    "brand": "Alauša",
+    "city": "Anykščių r. sav.",
+    "address": "Anykščiai, A. Vienuolio g. 32A, 29149",
+    "lat": 55.5224395,
+    "lng": 25.0899632,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sf7go8l",
+    "brand": "Alauša",
+    "city": "Ukmergės r. sav.",
+    "address": "Ukmergė, Kauno g. 37, 20120",
+    "lat": 55.244496,
+    "lng": 24.75002,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sixrg3j",
+    "brand": "Alauša",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Kalvarijų g. 204G, 08247",
+    "lat": 54.7208665,
+    "lng": 25.284772,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s9186vy",
+    "brand": "Alauša",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, Stoties g. 49, 68261",
+    "lat": 54.562859,
+    "lng": 23.3665326,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smlep5g",
+    "brand": "Alauša",
+    "city": "Vilniaus m. sav.",
+    "address": "Grigiškės, Vilniaus g. 8, 27101",
+    "lat": 54.6774447,
+    "lng": 25.0790496,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s89n1n2",
+    "brand": "Alauša",
+    "city": "Utenos r. sav.",
+    "address": "Utena, Palijoniškio g. 1, 28183",
+    "lat": 55.5118474,
+    "lng": 25.6000041,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8ir592",
+    "brand": "Alauša",
+    "city": "Ignalinos r. sav.",
+    "address": "Ignalina, Švenčionių g. 29A, 30132",
+    "lat": 55.3320479,
+    "lng": 26.1671283,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sy6wciq",
+    "brand": "Alauša",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, Sporto g. 50A, 68110",
+    "lat": 54.566841,
+    "lng": 23.3776035,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8fz8cu",
+    "brand": "Alauša",
+    "city": "Visagino sav.",
+    "address": "Visaginas, Kosmoso g. 3, 31142",
+    "lat": 55.5991692,
+    "lng": 26.4198645,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgysdm5",
+    "brand": "Alauša",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Buivydiškių g. 5, 07171",
+    "lat": 54.7108303,
+    "lng": 25.2404105,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "srtsvd6",
+    "brand": "Alauša",
+    "city": "Šalčininkų r. sav.",
+    "address": "Skraičionys, Skraičionių g. 1, 17140",
+    "lat": 54.2041215,
+    "lng": 25.6210537,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssmnp5h",
+    "brand": "Alauša",
+    "city": "Šakių r. sav.",
+    "address": "Kudirkos Naumiestis, Šakių g. 51, 71319",
+    "lat": 54.7841309,
+    "lng": 22.8733826,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "shuj7q3",
+    "brand": "Alauša",
+    "city": "Rokiškio r. sav.",
+    "address": "Obeliai, Dariaus ir Girėno g. 36, 42209",
+    "lat": 55.9485496,
+    "lng": 25.8143193,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "soyv5cd",
+    "brand": "Alauša",
+    "city": "Marijampolės sav.",
+    "address": "Puskelnių k., Plytinės g. 2, 68103",
+    "lat": 54.5711728,
+    "lng": 23.3385123,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "suwau4q",
+    "brand": "Alauša",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Palemono g. 171, 52107",
+    "lat": 54.9236968,
+    "lng": 24.0690468,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8bo3zx",
+    "brand": "Alauša",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Laisvės pr. 125A, 06118",
+    "lat": 54.7276342,
+    "lng": 25.2363041,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sub47ur",
+    "brand": "Alauša",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Šv. Stepono g. 44, 01312",
+    "lat": 54.669143,
+    "lng": 25.2787962,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "syqbqbw",
+    "brand": "Alauša",
+    "city": "Šiaulių r. sav.",
+    "address": "Kairiai, Plento g. 2B, 80114",
+    "lat": 55.9201646,
+    "lng": 23.4259445,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sjb8v51",
+    "brand": "Andopas",
+    "city": "Šilutės r. sav.",
+    "address": "Šilutė, Ramučių g. 43, 99150",
+    "lat": 55.3588294,
+    "lng": 21.5033999,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sr6nc5l",
+    "brand": "Apsaga",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Pramonės g. 3A, 78140",
+    "lat": 55.9178654,
+    "lng": 23.2975256,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "srf9zxl",
+    "brand": "Apsaga",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Pramonės g. 28, 77116",
+    "lat": 55.9049517,
+    "lng": 23.3280681,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "swd2ygs",
+    "brand": "Apsaga",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Vilniaus g. 16, 76265",
+    "lat": 55.9235482,
+    "lng": 23.3500986,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "soc6o9s",
+    "brand": "Apsaga",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Šiaulių g. 12, 82142",
+    "lat": 55.8154505,
+    "lng": 23.5436826,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stpdatg",
+    "brand": "Autograndas",
+    "city": "Visagino sav.",
+    "address": "Visaginas, Taikos pr. 47, 31217",
+    "lat": 55.5903811,
+    "lng": 26.4633608,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "spmifh0",
+    "brand": "Baltic Petroleum",
+    "city": "Panevėžio m. sav.",
+    "address": "Panevėžys, Velžio kl. 74, 36148",
+    "lat": 55.7099224,
+    "lng": 24.383626,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sbxwstr",
+    "brand": "Baltic Petroleum",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Santaikos g. 33, 62100",
+    "lat": 54.3864789,
+    "lng": 24.0330607,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s686h5z",
+    "brand": "Baltic Petroleum",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, P. Armino g. 69, 68127",
+    "lat": 54.5338041,
+    "lng": 23.353361,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sw2gwk3",
+    "brand": "Baltic Petroleum",
+    "city": "Telšių r. sav.",
+    "address": "Telšiai, Šiaulių pl. 12, 88101",
+    "lat": 56.003941,
+    "lng": 22.2447458,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sphjpbo",
+    "brand": "Baltic Petroleum",
+    "city": "Kėdainių r. sav.",
+    "address": "Kėdainiai, J. Basanavičiaus g. 95B, 57352",
+    "lat": 55.2769184,
+    "lng": 23.9558741,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sg203hu",
+    "brand": "Baltic Petroleum",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Tilžės g. 90, 91101",
+    "lat": 55.700772,
+    "lng": 21.2004995,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ss64do8",
+    "brand": "Baltic Petroleum",
+    "city": "Mažeikių r. sav.",
+    "address": "Mažeikiai, M. Daukšos g. 17, 89234",
+    "lat": 56.3050956,
+    "lng": 22.3504695,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxfu69e",
+    "brand": "Baltic Petroleum",
+    "city": "Molėtų r. sav.",
+    "address": "Molėtai, Vilniaus g. 104, 33114",
+    "lat": 55.2173453,
+    "lng": 25.4033091,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq21ibp",
+    "brand": "Baltic Petroleum",
+    "city": "Širvintų r. sav.",
+    "address": "Širvintos, Musninkų g. 21, 19126",
+    "lat": 55.0322671,
+    "lng": 24.9671225,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "slc55nb",
+    "brand": "Baltic Petroleum",
+    "city": "Ukmergės r. sav.",
+    "address": "Ukmergė, Kauno g. 49, 20115",
+    "lat": 55.2412492,
+    "lng": 24.7408456,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sb9c49n",
+    "brand": "Baltic Petroleum",
+    "city": "Druskininkų sav.",
+    "address": "Druskininkai, Gardino g. 79, 69191",
+    "lat": 53.9998992,
+    "lng": 23.9879595,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "si1fdds",
+    "brand": "Baltic Petroleum",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Liepų g. 79A, 92195",
+    "lat": 55.7208199,
+    "lng": 21.1524938,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sif2z11",
+    "brand": "Baltic Petroleum",
+    "city": "Marijampolės sav.",
+    "address": "Pietarių k., Kauno g. 164, 68100",
+    "lat": 54.5711728,
+    "lng": 23.3385123,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "snts8lr",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Gerosios Vilties g. 33, 03202",
+    "lat": 54.6667672,
+    "lng": 25.2507937,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "st8ue89",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Molėtų pl. 27A, 08450",
+    "lat": 54.7676771,
+    "lng": 25.2725427,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smmzxxd",
+    "brand": "Baltic Petroleum",
+    "city": "Druskininkų sav.",
+    "address": "Druskininkai, Leipalingio g. 26, 66371",
+    "lat": 54.0302436,
+    "lng": 23.9832836,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s93p4b4",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Jonavos g. 60A, 44191",
+    "lat": 54.9050351,
+    "lng": 23.8995849,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smfnh04",
+    "brand": "Baltic Petroleum",
+    "city": "Varėnos r. sav.",
+    "address": "Merkinė, Vilniaus g. 87, 65333",
+    "lat": 54.1691323,
+    "lng": 24.2077437,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8uvrek",
+    "brand": "Baltic Petroleum",
+    "city": "Jonavos r. sav.",
+    "address": "Jonava, Žemaitės g. 1, 55134",
+    "lat": 55.0823811,
+    "lng": 24.2709727,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s55dns8",
+    "brand": "Baltic Petroleum",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Šiaulių g. 1A, 82142",
+    "lat": 55.8255192,
+    "lng": 23.5233024,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "st0kc97",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Metalo g. 4B, 02189",
+    "lat": 54.6404777,
+    "lng": 25.2674802,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6zdoab",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Zujūnų g. 2A, 06200",
+    "lat": 54.7111087,
+    "lng": 25.161795,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "spnvfrl",
+    "brand": "Baltic Petroleum",
+    "city": "Joniškio r. sav.",
+    "address": "Joniškis, Vilniaus g. 72, 84172",
+    "lat": 56.2234129,
+    "lng": 23.5974166,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smto898",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Vaidoto g. 153, 45392",
+    "lat": 54.8613556,
+    "lng": 23.9588064,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "slse38h",
+    "brand": "Baltic Petroleum",
+    "city": "Pakruojo r. sav.",
+    "address": "Pakruojis, Statybininkų g. 28, 83163",
+    "lat": 55.9744618,
+    "lng": 23.8689184,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s92046j",
+    "brand": "Baltic Petroleum",
+    "city": "Utenos r. sav.",
+    "address": "Utena, Basanavičiaus g. 1B, 28138",
+    "lat": 55.4953295,
+    "lng": 25.5748777,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sds2f20",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus r. sav.",
+    "address": "Grigaičiai, Pavilnės g. 1, 11236",
+    "lat": 54.6810058,
+    "lng": 25.4119923,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sbmt6gp",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Savanorių pr. 121, 03150",
+    "lat": 54.6608115,
+    "lng": 25.2333764,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sj5mzqy",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius,  Kalvarijų g. 161A, 08311",
+    "lat": 54.724045,
+    "lng": 25.2823617,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sr1hlfp",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Antakalnio g. 128, 10200",
+    "lat": 54.7222342,
+    "lng": 25.3171326,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "se3r2wk",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Visalaukio g. 2, 08401",
+    "lat": 54.779293,
+    "lng": 25.3420915,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sinvtsr",
+    "brand": "Baltic Petroleum",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, B. Brazdžionio g. 2, 47266",
+    "lat": 54.6139256,
+    "lng": 25.3090003,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sa4oag4",
+    "brand": "Baltic Petroleum",
+    "city": "Varėnos r. sav.",
+    "address": "Varėna, M. K. Čiurlionio g. 63, 65219",
+    "lat": 54.2183476,
+    "lng": 24.5656262,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfrdxuv",
+    "brand": "Baltic Petroleum",
+    "city": "Trakų r. sav.",
+    "address": "Trakai, Vilniaus g. 33, 21118",
+    "lat": 54.6273235,
+    "lng": 24.9485509,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s3lkfov",
+    "brand": "Baltic Petroleum",
+    "city": "Šilutės r. sav.",
+    "address": "Šilutė, Klaipėdos g. 4A, 99116",
+    "lat": 55.3528865,
+    "lng": 21.4632498,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "scudwph",
+    "brand": "Baltic Petroleum",
+    "city": "Šilalės r. sav.",
+    "address": "Šilalė, Rytinio kelio g. 2, 75122",
+    "lat": 55.4900659,
+    "lng": 22.2001901,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq93y26",
+    "brand": "Baltic Petroleum",
+    "city": "Šiaulių m. sav.",
+    "address": "Šiauliai, Kupiškio g. 4, 76146",
+    "lat": 55.9577451,
+    "lng": 23.3160647,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s56twnm",
+    "brand": "Baltic Petroleum",
+    "city": "Šalčininkų r. sav.",
+    "address": "Šalčininkai, Vilniaus g. 5A, 17102",
+    "lat": 54.3179349,
+    "lng": 25.3815802,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sg0a0ns",
+    "brand": "Baltic Petroleum",
+    "city": "Šakių r. sav.",
+    "address": "Šakiai, Sodų g. 1, 71136",
+    "lat": 54.9453642,
+    "lng": 23.0457682,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sypamsp",
+    "brand": "Baltic Petroleum",
+    "city": "Šakių r. sav.",
+    "address": "Griškabūdis, A. Skelčio g., 71296",
+    "lat": 54.8504993,
+    "lng": 23.1714484,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sua3uxz",
+    "brand": "Baltic Petroleum",
+    "city": "Skuodo r. sav.",
+    "address": "Skuodas, Vytauto g. 22, 98122",
+    "lat": 56.2594374,
+    "lng": 21.5301055,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s20tjl3",
+    "brand": "Baltic Petroleum",
+    "city": "Rietavo sav.",
+    "address": "Rietavas, Dariaus ir Girėno g. 19, 90316",
+    "lat": 55.7194009,
+    "lng": 21.9285021,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "skx4hxz",
+    "brand": "Baltic Petroleum",
+    "city": "Raseinių r. sav.",
+    "address": "Kalnujų k. 1, 60191",
+    "lat": 55.3735907,
+    "lng": 23.1211369,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfz8i7y",
+    "brand": "Baltic Petroleum",
+    "city": "Raseinių r. sav.",
+    "address": "Raseiniai, Vilniaus g. 30, 60183",
+    "lat": 55.3709621,
+    "lng": 23.1331497,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sat04nm",
+    "brand": "Baltic Petroleum",
+    "city": "Radviliškio r. sav.",
+    "address": "Radviliškis, Miško g. 64, 82128",
+    "lat": 55.8006377,
+    "lng": 23.5659386,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sjd3m7f",
+    "brand": "Baltic Petroleum",
+    "city": "Radviliškio r. sav.",
+    "address": "Užuovėjos k., 82215",
+    "lat": 54.8097652,
+    "lng": 25.291711,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "svcke1v",
+    "brand": "Baltic Petroleum",
+    "city": "Prienų r. sav.",
+    "address": "Prienai, Vilniaus g. 3A, 59115",
+    "lat": 54.6284747,
+    "lng": 23.9588356,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgrmczc",
+    "brand": "Baltic Petroleum",
+    "city": "Plungės r. sav.",
+    "address": "Plateliai,  Žemaičių Kalvarijos g. 1A, 90421",
+    "lat": 56.0438521,
+    "lng": 21.8157115,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s2k4evv",
+    "brand": "Baltic Petroleum",
+    "city": "Pasvalio r. sav.",
+    "address": "Pasvalys, Mūšos g. 18, 39104",
+    "lat": 56.1604952,
+    "lng": 24.4430632,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sehrdsb",
+    "brand": "Baltic Petroleum",
+    "city": "Palangos m. sav.",
+    "address": "Palanga, Klaipėdos pl. 44, 00111",
+    "lat": 55.9156229,
+    "lng": 21.0783812,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "soql49k",
+    "brand": "Baltic Petroleum",
+    "city": "Palangos m. sav.",
+    "address": "Palanga, Ganyklų g. 28C, 00126",
+    "lat": 55.9234396,
+    "lng": 21.0759718,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sz68p4z",
+    "brand": "Baltic Petroleum",
+    "city": "Mažeikių r. sav.",
+    "address": "Tirkšliai, Laukų g. 10, 89330",
+    "lat": 56.2625551,
+    "lng": 22.3104529,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sxv0i2z",
+    "brand": "Baltic Petroleum",
+    "city": "Lazdijų r. sav.",
+    "address": "Lazdijai, Turistų g. 88, 67102",
+    "lat": 54.220799,
+    "lng": 23.508975,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1ceo1f",
+    "brand": "Baltic Petroleum",
+    "city": "Klaipėdos r. sav.",
+    "address": "Gargždai, Dariaus ir Girėno g. 10, 96144",
+    "lat": 55.7074247,
+    "lng": 21.380302,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6urmpt",
+    "brand": "Baltic Petroleum",
+    "city": "Klaipėdos r. sav.",
+    "address": "Priekulė, Klaipėdos g. 61, 96342",
+    "lat": 55.5618881,
+    "lng": 21.308762,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "snst4w9",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno r. sav.",
+    "address": "Jaučakių k., 54217",
+    "lat": 55.0461762,
+    "lng": 23.5886319,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s308smr",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Raudondvario pl. 82, 47179",
+    "lat": 54.9077624,
+    "lng": 23.874128,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfn6sxd",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Chemijos g. 6, 51344",
+    "lat": 54.903137,
+    "lng": 23.9827343,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sr37j3f",
+    "brand": "Baltic Petroleum",
+    "city": "Druskininkų sav.",
+    "address": "Leipalingis, Merkinės g. 37, 67280",
+    "lat": 54.0946203,
+    "lng": 23.8714383,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "svv3bsl",
+    "brand": "Baltic Petroleum",
+    "city": "Anykščių r. sav.",
+    "address": "Anykščiai, Mindaugo g. 23, 29141",
+    "lat": 55.5089869,
+    "lng": 25.1005651,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ssuv4ur",
+    "brand": "Baltic Petroleum",
+    "city": "Jurbarko r. sav.",
+    "address": "Jurbarkas, Muitinės g. 22A, 74111",
+    "lat": 55.0781222,
+    "lng": 22.7447381,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ss6a6sr",
+    "brand": "Baltic Petroleum",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Taikos pr. 120, 52140",
+    "lat": 54.9173777,
+    "lng": 24.0348003,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s8xf7k",
+    "brand": "Baltic Petroleum",
+    "city": "Neringos sav.",
+    "address": "Neringa, Nidos-Smiltynės pl. 6, 93125",
+    "lat": 55.3008802,
+    "lng": 20.9798761,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sq5pgs1",
+    "brand": "Baltic Petroleum",
+    "city": "Akmenės r. sav.",
+    "address": "Naujoji Akmenė, V. Kudirkos g. 21A, 85145",
+    "lat": 56.3189063,
+    "lng": 22.8852671,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s91n2hx",
+    "brand": "Abromika",
+    "city": "Utenos r. sav.",
+    "address": "Utena, Zarasų g. 9, 28216",
+    "lat": 55.5123015,
+    "lng": 25.643978,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sl164m9",
+    "brand": "Abromika",
+    "city": "Molėtų r. sav.",
+    "address": "Smėlinkos vs. 1, 33171",
+    "lat": 55.2156442,
+    "lng": 25.2677333,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "slydbwd",
+    "brand": "Abromika",
+    "city": "Kelmės r. sav.",
+    "address": "Kelmė, Kęstučio g. 1B, 86139",
+    "lat": 55.6347932,
+    "lng": 22.9454316,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sguuw0n",
+    "brand": "Boost Petrol",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Marvelės g. 132, 46230",
+    "lat": 54.9038368,
+    "lng": 23.835313,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "skmicnt",
+    "brand": "Abromika",
+    "city": "Elektrėnų sav.",
+    "address": "Elektrėnai, Dubijos g. 36, 26130",
+    "lat": 54.7862307,
+    "lng": 24.7143876,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "solbsqy",
+    "brand": "Borusta",
+    "city": "Birštono sav.",
+    "address": "Birštonas, Prienų g. 14, 59219",
+    "lat": 54.5953856,
+    "lng": 24.0266915,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sw3y664",
+    "brand": "Borusta",
+    "city": "Trakų r. sav.",
+    "address": "Aukštadvaris, Vilniaus g. 2a, 21253",
+    "lat": 54.5780863,
+    "lng": 24.5215204,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stxdpg5",
+    "brand": "Borusta",
+    "city": "Prienų r. sav.",
+    "address": "Stakliškės, Piliakalnio g. 3, 59370",
+    "lat": 54.5822273,
+    "lng": 24.3177801,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "scx538i",
+    "brand": "Circle K",
+    "city": "Marijampolės sav.",
+    "address": "Marijampolė, Kauno g. 130, 68230",
+    "lat": 54.5762251,
+    "lng": 23.3715049,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "smqdks",
+    "brand": "Circle K",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Tilžės g. 56A, 91110",
+    "lat": 55.7041492,
+    "lng": 21.1608983,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s1oihws",
+    "brand": "Circle K",
+    "city": "Alytaus m. sav.",
+    "address": "Alytus, Naujoji g. 120, 62175",
+    "lat": 54.4246479,
+    "lng": 24.0035005,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "s6uoou6",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Pramonės pr. 18, 51183",
+    "lat": 54.9162183,
+    "lng": 23.9866766,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sfwc5up",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Raudondvario pl. 107A, 47186",
+    "lat": 54.9081595,
+    "lng": 23.8652652,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sf69jss",
+    "brand": "Circle K",
+    "city": "Utenos r. sav.",
+    "address": "Utena, J. Basanavičiaus g. 3, 28134",
+    "lat": 55.4957334,
+    "lng": 25.5839148,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "stn2wv6",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Kareivių g. 3, 08221",
+    "lat": 54.7155483,
+    "lng": 25.29102,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sm79lfv",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Savanorių pr. 118, 03153",
+    "lat": 54.6618438,
+    "lng": 25.2354442,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sd9ydtk",
+    "brand": "Circle K",
+    "city": "Vilniaus m. sav.",
+    "address": "Vilnius, Savanorių pr. 119A, 03150",
+    "lat": 54.6626698,
+    "lng": 25.2347375,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sgz2lmi",
+    "brand": "Circle K",
+    "city": "Kauno m. sav.",
+    "address": "Kaunas, Žemaičių pl. 19, 48255",
+    "lat": 54.9252968,
+    "lng": 23.8904637,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sszu9eh",
+    "brand": "Circle K",
+    "city": "Šilutės r. sav.",
+    "address": "Šilutė, Cintjoniškių g. 15, 99116",
+    "lat": 55.3503645,
+    "lng": 21.4744317,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "sj5pthl",
+    "brand": "Circle K",
+    "city": "Klaipėdos m. sav.",
+    "address": "Klaipėda, Sausio 15-osios g. 2, 91200",
+    "lat": 55.7020689,
+    "lng": 21.1380345,
+    "prices": {
+      "a95": null,
+      "diesel": null,
+      "lpg": null
+    },
+    "updatedAt": "2026-09-13"
+  }
+]

@@ -4,7 +4,7 @@ import { StationMapLoader } from "@/components/StationMapLoader";
 
 export const metadata: Metadata = {
   title: "Kainos",
-  description: "Palyginkite A95, A98, dyzelino ir dujų kainas degalinėse visoje Lietuvoje.",
+  description: "Palyginkite A95, dyzelino ir dujų (SND) kainas degalinėse visoje Lietuvoje.",
 };
 
 export default function KainosPage() {
@@ -15,14 +15,16 @@ export default function KainosPage() {
           Degalų kainos
         </h1>
         <p className="mt-3 max-w-2xl text-subtle">
-          Filtruokite pagal miestą ir rūšiuokite pagal degalų tipą, kad
+          Filtruokite pagal savivaldybę ir rūšiuokite pagal degalų tipą, kad
           rastumėte pigiausią degalinę šalia savęs.
         </p>
       </div>
 
       <div className="mb-8 rounded-xl border border-border bg-muted px-4 py-3 text-sm text-subtle">
-        Šiuo metu rodomi pavyzdiniai duomenys — gyva kainų integracija bus
-        pridėta netrukus.
+        Kainos — Lietuvos energetikos agentūros (LEA) skelbiami duomenys,
+        atnaujinti kartą per parą (savaitgaliais duomenys neatnaujinami).
+        Degalinių vietos žemėlapyje nustatytos automatiškai pagal adresą ir
+        gali būti netikslios.
       </div>
 
       <div className="mb-12">
