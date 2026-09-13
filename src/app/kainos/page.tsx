@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { FuelPriceTable } from "@/components/FuelPriceTable";
+import { StationMapLoader } from "@/components/StationMapLoader";
 
 export const metadata: Metadata = {
   title: "Kainos",
@@ -22,6 +23,13 @@ export default function KainosPage() {
       <div className="mb-8 rounded-xl border border-border bg-muted px-4 py-3 text-sm text-subtle">
         Šiuo metu rodomi pavyzdiniai duomenys — gyva kainų integracija bus
         pridėta netrukus.
+      </div>
+
+      <div className="mb-12">
+        <h2 className="mb-4 text-xl font-bold tracking-tight">
+          Degalinių žemėlapis
+        </h2>
+        <StationMapLoader />
       </div>
 
       <FuelPriceTable />

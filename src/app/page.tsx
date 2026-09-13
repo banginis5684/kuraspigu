@@ -18,7 +18,7 @@ function Hero() {
   return (
     <section className="relative overflow-hidden border-b border-border">
       <div
-        className="pointer-events-none absolute inset-y-0 right-0 hidden w-[420px] xl:block"
+        className="pointer-events-none absolute inset-y-0 right-0 hidden w-[280px] lg:block xl:w-[420px]"
         style={{
           maskImage: "linear-gradient(to right, transparent, black 25%)",
           WebkitMaskImage: "linear-gradient(to right, transparent, black 25%)",

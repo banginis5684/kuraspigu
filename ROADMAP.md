@@ -114,8 +114,12 @@ Top to bottom:
   dispatch (web push and/or native), geolocation-aware querying.
 - **Real data pipeline**: ingest LEA data on a schedule, store price
   history (required to detect "price changed" and trigger alerts).
-- **Map provider**: needs a decision — cost and Lithuania coverage matter
-  (e.g. Mapbox, Google Maps, or OpenStreetMap + Leaflet/MapLibre).
+- **Map provider**: decided — Leaflet + OpenStreetMap tiles (free, no API
+  key). Shipped on `/kainos` (`src/components/StationMap.tsx`) with
+  price-badge markers, a cheapest-price highlight, and per-station
+  popups; station coordinates in `src/lib/data.ts` are approximate
+  (placed by street/city, not geocoded) — replace with real geocoding
+  once live station data is connected.
 - **Platform**: PWA (extend the current Next.js app with a manifest + web
   push) vs. a native app (React Native/Flutter). PWA is the natural
   extension of the current stack and skips app-store overhead; native
